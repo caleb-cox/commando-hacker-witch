@@ -585,85 +585,111 @@ When more than one person performs the ritual they can pool their mana. If one o
 ## Appendix 3: Bestiary
 In this Bestiary you’ll find average stats for various non-player characters and common creatures. Please note that the Defense listed is always the unarmored Defense. Bonuses granted by armor or shields are listed in parenthesis. Optional : If you need non-human NPCs, like an Orcish Bandit, or an Elfish Mage, just add the racial talents listed in Appendix 2.
 
-Common NPCs
-Apprentice Mage
-Attributes: Warrior 2, Rogue 3, Mage 5
-HP: 8, Mana: 10
-Defense: 6
-Skills: Alchemy, Blunt, Thaumaturgy
-Talents: Familiar (Raven)
-Spells: Frostburn, Healing Hand
-Trappings: Mage robes, Staff, pouch with 2d6 silver pieces
+### Common NPCs
+#### Apprentice Mage
+|||
+--- | ---
+**Attributes:** | Warrior 2, Rogue 3, Mage 5
+**HP:** | 8
+**Mana:** | 10
+**Defense:** | 6
+**Skills:** | Alchemy, Blunt, Thaumaturgy
+**Talents:** | Familiar (Raven)
+**Spells:** | Frostburn, Healing Hand
+**Trappings:** | Mage robes, Staff, pouch with 2d6 silver pieces
 
-Bandit
-Attributes: Warrior 5, Rogue 3, Mage 2 
-HP: 11, Mana: 4
-Defense: 10 (+2 for leather armor)
-Skills: Axes, Bows, Riding
-Talents: none
-Trappings: Leather clothing, wide-brimmed hat, axe, crossbow with 10 bolts.
+#### Bandit
+|||
+--- | ---
+**Attributes:** | Warrior 5, Rogue 3, Mage 2 
+**HP:** | 11
+**Mana:** | 4
+**Defense:** | 10 (+2 for leather armor)
+**Skills:** | Axes, Bows, Riding
+**Talents:** | none
+**Trappings:** | Leather clothing, wide-brimmed hat, axe, crossbow with 10 bolts.
 
-Commoner
-Attributes: Warrior 2, Rogue 2, Mage 1 
-HP: 8, Mana: 2
-Defense: 6
-Skills: none
-Talents: none
-Trappings: Simple clothes, knife, pouch with 1 silver piece
+#### Commoner
+|||
+--- | ---
+**Attributes:** | Warrior 2, Rogue 2, Mage 1 
+**HP:** | 8
+**Mana:** | 2
+**Defense:** | 6
+**Skills:** | none
+**Talents** | none
+**Trappings:** | Simple clothes, knife, pouch with 1 silver piece
 
-Cutthroat
-Attributes: Warrior 3, Rogue 5, Mage 2 
-HP: 9, Mana: 4
-Defense: 10
-Skills: Daggers, Thievery, Thrown
-Talents: Dual-wield
-Trappings: Dark clothes, hooded cloak, dagger, 1d6 throwing stars
+#### Cutthroat
+|||
+--- | ---
+**Attributes:** | Warrior 3, Rogue 5, Mage 2 
+**HP:** | 9
+**Mana:** | 4
+**Defense:** | 10
+**Skills:** | Daggers, Thievery, Thrown
+**Talents:** | Dual-wield
+**Trappings:** | Dark clothes, hooded cloak, dagger, 1d6 throwing stars
 
-Journeyman Mage
-Attributes: Warrior 3, Rogue 3, Mage 5
-HP: 12, Mana: 10
-Defense: 6
-Skills: Alchemy, Blunt, Lore, Thaumaturgy
-Talents: Familiar (Raven), Channeller
-Spells: Frostburn, Healing Hand, Lightning Bolt
-Trappings: Mage robes, Staff, pouch with 2d6 silver pieces
-
-
-Knight
-Attributes: Warrior 6, Rogue 2, Mage 3 
-HP: 16, Mana: 6
-Defense: 10 (+6 for light plate armor, +1 for small shield)
-Skills: Lore, Polearms, Riding, Swords
-Talents: Leadership, Henchman
-Trappings: Light plate armor, sword, small shield, warhorse
-
-Priest
-Attributes: Warrior 3, Rogue 3, Mage 5
-HP: 12, Mana: 10
-Defense: 6
-Skills: Awareness, Blunt, Lore
-Talents: Champion (Imperial Faith), Henchman
-Spells: Healing Hand, Create Food and Water
-Trappings: Priest robes, Staff, holy symbol
-
-Soldier
-Attributes: Warrior 5, Rogue 3, Mage 2 
-HP: 10, Mana: 4
-Defense: 10 (+3 for scale armor, +2 for large shield)
-Skills: Athletics, Firearms, Swords
-Talents: none
-Trappings: Scale armor, large shield, sword, dragon rifle with 20 shots.
-
-Town Guard
-Attributes: Warrior 5, Rogue 3, Mage 2 
-HP: 11, Mana: 4
-Defense: 10 (+3 for scale armor)
-Skills: Bows, Polearms, Swords
-Talents: none
-Trappings: Scale armor, halberd, sword, crossbow with 10 bolts, manacles
+#### Journeyman Mage
+|||
+--- | ---
+**Attributes:** | Warrior 3, Rogue 3, Mage 5
+**HP:** | 12
+**Mana:** | 10
+**Defense:** | 6
+**Skills:** | Alchemy, Blunt, Lore, Thaumaturgy
+**Talents:** | Familiar (Raven), Channeller
+**Spells:** | Frostburn, Healing Hand, Lightning Bolt
+**Trappings:** | Mage robes, Staff, pouch with 2d6 silver pieces
 
 
-Animals
+#### Knight
+|||
+--- | ---
+**Attributes:** | Warrior 6, Rogue 2, Mage 3 
+**HP:** | 16
+**Mana:** | 6
+**Defense:** | 10 (+6 for light plate armor, +1 for small shield)
+**Skills:** | Lore, Polearms, Riding, Swords
+**Talents:** | Leadership, Henchman
+**Trappings:** | Light plate armor, sword, small shield, warhorse
+
+#### Priest
+|||
+--- | ---
+**Attributes:** | Warrior 3, Rogue 3, Mage 5
+**HP:** | 12
+**Mana:** | 10
+**Defense:** | 6
+**Skills:** | Awareness, Blunt, Lore
+**Talents:** | Champion (Imperial Faith), Henchman
+**Spells:** | Healing Hand, Create Food and Water
+**Trappings:** | Priest robes, Staff, holy symbol
+
+#### Soldier
+|||
+--- | ---
+**Attributes:** | Warrior 5, Rogue 3, Mage 2 
+**HP:** | 10
+**Mana:** | 4
+**Defense:** | 10 (+3 for scale armor, +2 for large shield)
+**Skills:** | Athletics, Firearms, Swords
+**Talents:** | none
+**Trappings:** | Scale armor, large shield, sword, dragon rifle with 20 shots.
+
+#### Town Guard
+|||
+--- | ---
+**Attributes:** | Warrior 5, Rogue 3, Mage 2 
+**HP:** | 11
+**Mana:** | 4
+**Defense:** | 10 (+3 for scale armor)
+**Skills:** | Bows, Polearms, Swords
+**Talents:** | none
+**Trappings:** | Scale armor, halberd, sword, crossbow with 10 bolts, manacles
+
+### Animals
 Animal have slightly different stat blocks from humans. Instead of skills, talents and trappings, the animal's various attacks are listed. Animals can attack with all their natural attacks if not noted otherwise. In some cases the exploding die rule for damage does not apply.
 
 Bear
@@ -813,12 +839,16 @@ Attributes: Warrior 6, Rogue 0, Mage 0
 HP: 12, Mana: 0
 Defense: 7
 
-Appendix 4: Character Creation Summary
+## Appendix 4: Character Creation Summary
 1.  Distribute 10 attribute levels among the three attributes Warrior, Rogue, and Mage. No attribute may be higher than six.
 2.  Pick three skills
 3.  Pick one talent
 4.  (Optional : Choose a non-human race for your character and write down the racial talents on your character sheet)
-5.  Calculate HP, Fate, Mana and Defense HP = 6 + Warrior Fate = 1x Rogue Mana = 2x Mage Defense = (Warrior + Rogue)/2 + 4
-6.  Purchase starting equipment for 250 SP.
+5.  Calculate HP, Fate, Mana and Defense
+    - HP = 6 + Warrior
+    - Fate = 1x Rogue
+    - Mana = 2x Mage
+    - Defense = (Warrior + Rogue)/2 + 4
+6.  Purchase starting equipment for 200 SP.
 7.  Fill out character sheet.
 
