@@ -385,7 +385,7 @@ Characters in WR&M don’t have levels or need to amass experience points to imp
 - Raise one attribute by one.
 - Add 1d6 to either HP or Mana
 - Gain an additional skill
-- Gain a talent *
+- Gain a talent*
 
 \* Talents should be harder to get than an additional skill or HPs. The GM should send the player character on a sidequest to find a trainer, get admission to a special group or learn an ancient ritual that unlocks that talent.
 
@@ -481,96 +481,108 @@ Every damage taken is reduced by 2.
 
 ## Appendix 2: Optional Rules
 
-Non-human player characters
+### Non-human player characters
 A common trope of the fantasy RPG genre are non-human player character, mainly Elves, Dwarves, Halflings and Gnomes. Some games even allow players to play a member of the more bestial races, like Orcs, Goblins or even more fantastic creatures. Although there are no Elves, Dwarves, Gnomes and Halflings in the campaign setting presented here in the book, they may be viable player options in other fantasy settings.
 
-Player races
+#### Player races
 At the beginning of character creation the player chooses the race of his character. He can choose from the following list, or the GM may create more races if he wishes.
 
-Elf
+##### Elf
 Elves are usually looking like slender, beautiful humans with slightly elongated limbs and pointed ears. Elves have less body hair than humans. Elves have an exceptional talent for magic. Elves live much longer than humans but mature about as fast.
+
 Racial talents: Exceptional Attribute (Mage), Sixth Sense*, Weak
 
-Dwarf
+##### Dwarf
 Dwarves are shorter and stockier than humans. Male dwarves usually sport thick and long beards. Dwarves are very strong and tough for their small size and are known for their fighting prowess. Dwarves live longer than humans but not as long as the Elves.
+
 Racial talents: Exceptional Attribute (Warrior), Craftsman* (craft of player's choice), No Talent for Magic
 
-Halflings
+##### Halflings
 Halflings are even shorter than Dwarves and are sometimes even mistaken for human children. They usually live peaceful lives far away from the bustling towns of the humans. But if one of the members of that race goes on adventuring their exceptional talent for thievery shows.
+
 Racial talents: Exceptional Attribute (Rogue), Hunter*, Weak
 
-Lizardmen
+##### Lizardmen
 Lizardmen are an intelligent species that evolved from lizards. Instead of their ancestors they are not cold-blooded anymore, but they still prefer hot and dry areas. They resemble a humanoid lizard with scales instead of skin which also doubles as armor. Lizardmen are known for there lack of strong emotions and their keen logic.
+
 Racial talents: Natural Armor (Defense 2), Tough as Nails*, Outcast
 
-Goblins
+##### Goblins
+
 Goblins are the smallest of the greenskin races. They have a green skin, very long pointed ears and are about 1 yard tall. They have high voices and a mouth of razor-sharp teeth. Goblins seem to have a knack for salvaging and tinkering.
+
 Racial talents: Tinkerer, Lucky Devil*, Weak
 
-Orcs
+##### Orcs
 Orcs are slightly larger than humans, green skinned and are exceptionally strong. They can be savage warriors but they have a strong sense of honor. They usually look down on the smaller races like Goblins and Halflings. Orcish adventurers are a rare sight to behold, but often they are accompanied by one of their tame black wolves.
+
 Racial talents: Berserker, Exceptional Attribute (Warrior), Outcast
 
-*) See Appendix 1 for details
+\* See Appendix 1 for details
 
-Racial talents
+#### Racial talents
 A member of a non-human race gets a number of racial talents which help him to set apart from ordinary humans. Some of these talents are actually drawbacks meant to balance out the advantages that certain races get. GMs are encouraged to invent their own racial talents. The talents given in this chapter are meant as a source for inspiration. With the GMs approval players of other races may pick some of these talents as well.
 
-Berserker
-This talent allows a character to go berserk during combat. This adds +2 to the Warrior attribute and all the damage caused. Temporarily the berserker ignores all damage effects. You still have to note down all the damage taken though, since the damage takes effect as soon as the berserk wears off. The Mage attribute is reduced to 0 during the duration of that effect and casting of magic is impossible. The character has to attack his nearest enemy only and is only allowed to fight in close quarters. When all the enemies are on the ground the berserker has to make an unmodified Easy (5) Mage check. If the check is successful, the effect ends and the character drop unconscious to the ground. If he has taken enough damage to be reduced to 0 or less HP he's dead or dying. If his HPs are still 1 or more, he's knocked out for 2d6 minutes before he awakes with a headache.
+##### Berserker
+This talent allows a character to go berserk during combat. This adds +2 to the Warrior attribute and all the damage caused. Temporarily the berserker ignores all damage effects. You still have to note down all the damage taken though, since the damage takes effect as soon as the berserk wears off. The Mage attribute is reduced to 0 during the duration of that effect and casting of magic is impossible. The character has to attack his nearest enemy only and is only allowed to fight in close quarters. When all the enemies are on the ground the berserker has to make an unmodified Easy (5) Mage check.
+
+If the check is successful, the effect ends and the character drop unconscious to the ground. If he has taken enough damage to be reduced to 0 or less HP he's dead or dying. If his HPs are still 1 or more, he's knocked out for 2d6 minutes before he awakes with a headache.
+
 In the case the roll was unsuccessful he has to attack the nearest ally. 
 
-Exceptional Attribute
+##### Exceptional Attribute
 This talent allows the player to roll two six-sided dice instead of one when making a check using the relevant attribute. The highest result counts.
 
-Natural Armor
+##### Natural Armor
 Natural armor usually is in the form of scales or thick fur that protects the character from damage. The Defense granted by natural armor works as long as no other armor is worn.
 
-No Talent for Magic
+##### No Talent for Magic
 A character with this talent has a hard time grasping the concepts of magic or has a natural resistance to channeling mana. When making a casting check, the character rolls two d6 and takes the lowest result. In addition to that mana costs are doubled.
 
-Tinkerer
+##### Tinkerer
 A character with that talent has a knack for all things technical. He gets a +2 bonus on all checks related to repairing, dismantling or using technical equipment like mechanical traps, firearms, war golems, clockwork etc.
 
-Weak
+##### Weak
 A character with this talent is more frail than the common man. He starts play with 3 + the Warrior Attribute and when levelling up he only gets 1d6-2 hitpoints (minimum is 1 hp though).
 
-Outcast
+##### Outcast
 A character with this racial talent is considered an outcast in most societies. Every test related to social interaction with a member of a different race is modified by 3.
 
-Dual-wielding and multiple attacks
+### Dual-wielding and multiple attacks
 The talent Dual-wielding already allows characters to wield two weapons at once, although it does not grant additional attacks. If the GM approves player may also attack with both weapons in one round if they take the talent Double Attack with has Dual-wield as a prerequisite. When using Double Attack the character gets an additional attack with his off-hand weapon. Please note that both weapons have to be of the same type in order to use this maneuver. Two melee weapons or two ranged weapons are fine (dragon pistols for example), but one ranged and one melee weapon can't be used in that way. Please note that you can't dual-wield two-handed weapons.
 
-Mounted Combat and Vehicle Combat
+### Mounted Combat and Vehicle Combat
 Mounted combat and vehicle combat are basically handled much like combat between characters. The main difference are Maneuver checks. Fighting from horseback or out of a fast-moving vehicle like horse-drawn carriage can be a complicated and dangerous matter.
 
-Maneuvers
+#### Maneuvers
 Whenever a character wants to perform a maneuver on a horse or on a moving vehicle he has to make a Maneuver check. When he's riding a horse (or similar) mount he makes a riding check with a DL decided by the GM everytime he wants to perform a maneuver. Just moving in a straight line is not considered a maneuver in itself as long as the rider/driver is not fighting. Here are some example for common DLs:
 
-Maneuver    DL
-Walk (Horse)    -
-Canter (Horse)  5
-Gallop (Horse)  9
-Tight Turn    7
-Sudden Stop     9
-Jump over obstacle  7
+Maneuver | DL
+--- | ---
+Walk (Horse) | -
+Canter (Horse) | 5
+Gallop (Horse) | 9
+Tight Turn | 7
+Sudden Stop | 9
+Jump over obstacle | 7
 
 When the maneuver check is successful the character can perfom combat actions like attacks, reloading his weapon or something similar. But if the check fails the character may fall from the horse or crash. In case the maneuver performed was riding/driving in a straight line, the character has to reduce speed immediately.
 
-Ritual Magic
+### Ritual Magic
 Especially spells of the higher circles are beyond the reach of most casters. For one the DLs are pretty high and the mana cost itself may pose a problem for beginner mages. But with GMs approval casters may choose to perform ritual magic.
+
 The main difference between ritual magic and normal spell magic is that it takes a long time to perform. The following list gives the minimum casting times for ritual magic. Of course it doesn't usually make sense to use ritual magic for combat spells like Firebolt. The mana cost of the spell stays the same, and spell enhancement can be used, but the casting difficulty is reduced by 1 when the ritual is performed in the minimum time. If you take the double time, the DL is reduced by 2, and so on.
 
-
-Circle    Time  Max. Participants
-1st circle  1 min   3
-2nd circle  5 min   6
-3rd circle  15 min  9
-4th circle  1 hour  12
+Circle | Time | Max. Participants
+--- | --- | ---
+1st circle | 1 min | 3
+2nd circle | 5 min | 6
+3rd circle | 15 min | 9
+4th circle | 1 hour | 12
 
 When more than one person performs the ritual they can pool their mana. If one or more participants have the Blood Mage talent they can use it to convert any participants HPs to Mana, too. This is often used in the form of ritual sacrifices where a Blood Mage performs a ritual and kills one of the (often involuntarily) participants to release his mana into the spell. The mana gained in such a way is doubled.
 
-Appendix 3: Bestiary
+## Appendix 3: Bestiary
 In this Bestiary you’ll find average stats for various non-player characters and common creatures. Please note that the Defense listed is always the unarmored Defense. Bonuses granted by armor or shields are listed in parenthesis. Optional : If you need non-human NPCs, like an Orcish Bandit, or an Elfish Mage, just add the racial talents listed in Appendix 2.
 
 Common NPCs
