@@ -708,7 +708,7 @@ Animal have slightly different stat blocks from humans. Instead of skills, talen
 **HP:** | 4
 **Mana:** | 0
 **Defense:** | 9 (+3 while flying)
-**Attacks:** | Beak1 (uses Rogue attribute) 1d6/2 damage
+**Attacks:** | Beak* (uses Rogue attribute) 1d6/2 damage
 **Notes:** | These stats can also be used for ravens and other birds of comparable size
 
 #### Cat, large
@@ -727,7 +727,7 @@ Animal have slightly different stat blocks from humans. Instead of skills, talen
 **HP:** | 5
 **Mana:** | 0
 **Defense:** | 8
-**Attacks:** | 2x Claws1 (uses Rogue attribute) 1d6/2 damage
+**Attacks:** | 2x Claws* (uses Rogue attribute) 1d6/2 damage
 
 #### Dog
 |||
@@ -736,7 +736,7 @@ Animal have slightly different stat blocks from humans. Instead of skills, talen
 **HP:** | 6
 **Mana:** | 0
 **Defense:** | 7
-**Attacks:** | Bite1 (uses Warrior attribute) 1d6 damage
+**Attacks:** | Bite* (uses Warrior attribute) 1d6 damage
 **Notes:** | can be trained as a mount for small races
 
 #### Fire beetle
@@ -792,7 +792,7 @@ Animal have slightly different stat blocks from humans. Instead of skills, talen
 **HP:** | 12
 **Mana:** | 0
 **Defense:** | 9
-**Attacks:** | Bite1 (uses Warrior attribute) 1d6 damage
+**Attacks:** | Bite* (uses Warrior attribute) 1d6 damage
 **Notes:** | Warhorses have 1d6+4 additional hitpoints and have one trample attack (which uses Warrior attribute) that causes 2d6 damage
 
 #### Venomous snake
@@ -802,7 +802,7 @@ Animal have slightly different stat blocks from humans. Instead of skills, talen
 **HP:** | 6
 **Mana:** | 0
 **Defense:** | 8
-**Attacks:** | venomous bite1 (uses Rogue attribute) 1d6/2 damage + poison (mild or lethal, see Chapter 6)
+**Attacks:** | Venomous bite* (uses Rogue attribute) 1d6/2 damage + poison (mild or lethal, see Chapter 6)
 
 #### Wolf
 |||
@@ -823,56 +823,76 @@ Animal have slightly different stat blocks from humans. Instead of skills, talen
 **Attacks:** | Bite (uses Warrior attribute) 1d6+3 damage
 **Notes:** | can be trained as a mount
 
-1) The exploding die rule does not apply
+\* The exploding die rule does not apply
 
 ### Magical creatures and the undead
 
-Drake
-Attributes: Warrior 8, Rogue 6, Mage 2 
-HP: 35, Mana: 4
-Defense: 11 (+4 for scales)
-Attacks: Bite (uses Warrior attribute) 1d6+3 damage, 2x claws (use Warrior attribute) 1d6+2 damage
-Notes: can be trained as a mount
+#### Drake
+|||
+--- | ---
+**Attributes:** | Warrior 8, Rogue 6, Mage 2 
+**HP:** | 35
+**Mana:** | 4
+**Defense:** | 11 (+4 for scales)
+**Attacks:** | Bite (uses Warrior attribute) 1d6+3 damage, 2x claws (use Warrior attribute) 1d6+2 damage
+**Notes:** | can be trained as a mount
 
-Fire Drake
-Attributes: Warrior 8, Rogue 6, Mage 2 
-HP: 38, Mana: 4
-Defense: 11 (+4 for scales)
-Attacks: Bite (uses Warrior attribute) 1d6+1 damage, 2x claws (use Warrior attribute) 1d6 damage, flame breath
-(uses Rogue attribute) 2d6
-Notes: can be trained as a mount
+#### Fire Drake
+|||
+--- | ---
+**Attributes:** | Warrior 8, Rogue 6, Mage 2 
+**HP:** | 38
+**Mana:** | 4
+**Defense:** | 11 (+4 for scales)
+**Attacks:** | Bite (uses Warrior attribute) 1d6+1 damage, 2x claws (use Warrior attribute) 1d6 damage, flame breath (uses Rogue attribute) 2d6
+**Notes:** | can be trained as a mount
 
-Elemental, Earth
-Attributes: Warrior 10, Rogue 2, Mage 0 
-HP: 40, Mana: 0
-Defense: 10
-Attacks: 2x stone fist (uses Warrior attribute) 2d6+2
+#### Elemental, Earth
+|||
+--- | ---
+**Attributes:** | Warrior 10, Rogue 2, Mage 0 
+**HP:** | 40
+**Mana:** | 0
+**Defense:** | 10
+**Attacks:** | 2x stone fist (uses Warrior attribute) 2d6+2
 
-Golem, war
-Attributes: Warrior 10, Rogue 0, Mage 3 
-HP: 20, Mana: 0
-Defense: 9 (+5 armor plating)
-Attacks: steel fist (uses Warrior attribute) 2d6 or can use normal weapons
-Notes: The war golem has all the weapon skills he needs to use the weapons he's equipped with.
+#### Golem, war
+|||
+--- | ---
+**Attributes:** | Warrior 10, Rogue 0, Mage 3 
+**HP:** | 20
+**Mana:** | 0
+**Defense:** | 9 (+5 armor plating)
+**Attacks:** | steel fist (uses Warrior attribute) 2d6 or can use normal weapons
+**Notes:** | The war golem has all the weapon skills he needs to use the weapons he's equipped with.
 
-Golem, work
-Attributes: Warrior 10, Rogue 0, Mage 2 
-HP: 20, Mana: 0
-Defense: 9 (+2 light armor plating)
-Attacks: steel fist (uses Warrior attribute) 2d6
+#### Golem, work
+|||
+--- | ---
+**Attributes: Warrior 10, Rogue 0, Mage 2 
+**HP: 20
+**Mana: 0
+**Defense: 9 (+2 light armor plating)
+**Attacks: steel fist (uses Warrior attribute) 2d6
 
-Skeleton
-Attributes: Warrior 3, Rogue 3, Mage 0 
-HP: 9, Mana: 0
-Defense: 7 (+1 for rusted armor)
-Skeleton Warrior - Trappings: Rusted armor, broken shield, sword
-Skeleton Archer - Trappings: Rusted armor, bow with 10 arrows
-Notes: Skeletons ignore half damage from all but blunt weapons and axes.
+#### Skeleton
+|||
+--- | ---
+**Attributes: Warrior 3, Rogue 3, Mage 0 
+**HP: 9
+**Mana: 0
+**Defense: 7 (+1 for rusted armor)
+**Skeleton Warrior Trappings: Rusted armor, broken shield, sword
+**Skeleton Archer Trappings: Rusted armor, bow with 10 arrows
+**Notes: Skeletons ignore half damage from all but blunt weapons and axes.
 
-Zombie
-Attributes: Warrior 6, Rogue 0, Mage 0 
-HP: 12, Mana: 0
-Defense: 7
+#### Zombie
+|||
+--- | ---
+**Attributes: Warrior 6, Rogue 0, Mage 0 
+**HP: 12
+**Mana: 0
+**Defense: 7
 
 ## Appendix 4: Character Creation Summary
 1.  Distribute 10 attribute levels among the three attributes Warrior, Rogue, and Mage. No attribute may be higher than six.
