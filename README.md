@@ -185,7 +185,7 @@ Missile attack that causes 1d6+2 damage (+2 per level of mana burn)
 #### Magic Armor
 A magic bubble around the caster absorbs any damage until its HP are depleted or dispelled. The bubble has 4 hitpoint and each level of mana burn adds 4 more. Excess damage is not transferred.
 
-###3rd Circle Spells
+### 3rd Circle Spells
 #### Chain Lightning
 As lightning bolt, but can also attack multiple enemies as long as they are within 5 yards of each other. The damage of the spell can be increased by mana burns. The maximum number of targets affected is 3.
 
@@ -201,7 +201,7 @@ The caster puts a temporary enchantment on a weapon that then grants its wielder
 #### Stasis
 Touch-attack that puts target into stasis. For the target time stands still, it cannot move, attack or be attacked. Last for a number of hours equal to successes rolled. 
 
-###4th Circle Spells
+### 4th Circle Spells
 #### Summon Earth Elemental
 Caster summons an Earth Elemental under his control. The Elemental is destroyed when its HP are depleted or when dispelled by the caster.
 
@@ -361,158 +361,125 @@ This simple whitewood stave can extend or retract on command, shrinking so as to
 
 The following section is for the Gamemaster only. If you are a player, please stop reading here.
 
-Running Warrior, Rogue & Mage
+### Running Warrior, Rogue & Mage
 WR&M leaves a lot of room for interpretation in the rules. Not everything you can think of has been covered by the rules and in many cases GM fiat plays a major role. It shares this with a lot of early roleplaying games, which are now called "old school". But that aspect of the game allows it to be a perfect toolbox for players and GMs alike. If there's something missing from the game, you need for your campaign, just add it. If there's something that bothers you, change it or drop it completely. The possibilities are endless and the rules-lite nature of the game allows you to make the game your own without having to fear you break the whole game.
 
-Start slow but then go epic
+### Start slow but then go epic
 Especially if you haven't run WR&M before, you should start things slow. Don't throw your players into an epic adventure at once but try to get a feel for the rules and the lethality of combat first. There's nothing more frustrating for your gamers than to have to face a total party kill in the first session.
+
 But after you're more comfortable with the game you should turn things up a notch. WR&M is supposed to be epic fantasy. The setting included in the book hints at powerful artifacts, lost technologies and ruined cities. This is probably what the players expect when they sit down at the gaming table, so the GM should deliver.
 
-GM rulings instead of rules
+### GM rulings instead of rules
 In most cases it's much faster and better for the flow of the game if the GM makes rulings when there's a rule discussion. Nothing destroys the mood of any game more than a lengthy discussion about some rules and the interpretation of what is printed in the book. To avoid that, the GM always has the last word in these cases. If the issue at hand still bothers you after the game, just look it up and make up your mind. But during the game you should just decide something instead of making a fuss about it.
 
-Make it your own
+### Make it your own
 I can't stress this enough: make WR&M your own. GMs and players are encouraged to bring their own ideas to the table. Add new lands, create new monster, change the rules, write up your own spells. Whatever suits your fancy, do it. A lot of creativity went into the production of the game, but it definitely shouldn't end there! This book contains several optional rules that you can use, but you can of course add your own house rules as well. And if you think there's something critical or just very cool missing from the game, let us know!
 
-Setting the mood with music
+### Setting the mood with music
 When it comes to setting the mood nothing is better than playing some epic music in the background. Some people prefer movie and computer game soundtracks, some people prefer heavy metal tunes. The important part is that you and your players are comfortable with the music and that it enhances the mood of the game. Playing music from a horror movie in the background is a great way to improve the immersion if you're running a horror adventure.
 
 
-Character advancement
-Characters in WR&M don’t have levels or need to amass experience points to improve their abilities. The GM decides when he thinks the characters are ready to advance. Usually this happens at the end of a successful adventure. If you want to let the characters advance faster, the you can allow them to advance after each session. Whenever the GM allows the players to advance they may do the following:
+### Character advancement
+Characters in WR&M don’t have levels or need to amass experience points to improve their abilities. The GM decides when he thinks the characters are ready to advance. Usually this happens at the end of a successful adventure. If you want to let the characters advance faster, then you can allow them to advance after each session. Whenever the GM allows the players to advance they may do the following:
 
-● Raise one attribute by one.
-● Add 1d6 to either HP or Mana
-● Gain an additional skill
-● Gain a talent 1
+- Raise one attribute by one.
+- Add 1d6 to either HP or Mana
+- Gain an additional skill
+- Gain a talent *
 
-1 Talents should be harder to get than an additional skill or HPs. The GM should send the player character on a sidequest to find a trainer, get admission to a special group or learn an ancient ritual that unlocks that talent.
+\* Talents should be harder to get than an additional skill or HPs. The GM should send the player character on a sidequest to find a trainer, get admission to a special group or learn an ancient ritual that unlocks that talent.
 
 Optional: The GM can allow players to add 3 points of HP or Mana when they level up instead of rolling the dice.
 
-Non-combat hazards
+### Non-combat hazards
 Aside from combat there are a lot of ways a character may be harmed. The table below lists a few possible hazards.
 
-Hazard    Damage Fall                     1d6 per 3 yards of fall Suffocation/drowning  1d6 per round Mild poison   1d3 initial damage, 1 dam./rnd. until successful Warrior check vs. DL 7. Lethal poison    1d6 initial damage, 2 dam./rnd. until successful Warrior check vs. DL 11. Fire      1d6 per round exposed to the flames 
-Appendix 1: Skills & Talents
+Hazard | Damage
+--- | ---
+Fall | 1d6 per 3 yards of fall
+Suffocation/drowning | 1d6 per round
+Mild poison | 1d3 initial damage, 1 dam./rnd. until successful Warrior check vs. DL 7.
+Lethal poison | 1d6 initial damage, 2 dam./rnd. until successful Warrior check vs. DL 11.
+Fire | 1d6 per round exposed to the flames
 
+## Appendix 1: Skills & Talents
 The table below lists all available skills for WR&M. Of course GMs are free to add more skills, if necessary.
 
-Skill
-Attribute
-Description
-Athletics
-Warrior
-Training in swimming, running and jumping.
-Axes
-Warrior
-Training with axes and polearms
-Blunt Weapons
-Warrior
-Training in all blunt weapons incl. maces and staves.
-Riding
-Warrior
-Training in riding on horses and other common mounts.
-Spears
-Warrior
-Training with spears and lances.
-Swords
-Warrior
-Training with all kinds of swords, including two-handed ones.
-Unarmed
-Warrior
-Training with unarmed fighting.
-Acrobatics
-Rogue
-Training in activities like dancing, contortion, climbing, tightrope walking, tumbling.
-Bows
-Rogue
-Skill for using bows and crossbows
-Daggers
-Rogue
-Training with daggers and knives.
-Firearms
-Rogue
-Training in the usage of exotic firearms.
-Thievery
-Rogue
-Training in the roguish arts like picking locks and picking pockets.
-Thrown Weapons
-Rogue
-Proficiency with thrown weapons like shuriken.
-Alchemy
-Mage
-Training in creating potions and salves.
-Awareness
-Mage
-This skill is a measure of a characters awareness of his surroundings.
-Herbalism
-Mage
-Knowledge of plants, herbs and their medical uses. Can be used to heal critically wounded characters.
-Hermeticism
-Mage
-Skilled with arcane spells and rituals.
-Lore
-Mage
-General knowledge.
-Thaumaturgy
-Mage
-Proficiency with divine spells.
+Skill | Attribute | Description
+--- | --- | ---
+Athletics | Warrior | Training in swimming, running and jumping.
+Axes | Warrior | Training with axes and polearms
+Blunt Weapons | Warrior | Training in all blunt weapons incl. maces and staves.
+Riding | Warrior | Training in riding on horses and other common mounts.
+Spears | Warrior | Training with spears and lances.
+Swords | Warrior | Training with all kinds of swords, including two-handed ones.
+Unarmed | Warrior | Training with unarmed fighting.
+Acrobatics | Rogue | Training in activities like dancing, contortion, climbing, tightrope walking, tumbling.
+Bows | Rogue | Skill for using bows and crossbows
+Daggers | Rogue | Training with daggers and knives.
+Firearms | Rogue | Training in the usage of exotic firearms.
+Thievery | Rogue | Training in the roguish arts like picking locks and picking pockets.
+Thrown Weapons | Rogue | Proficiency with thrown weapons like shuriken.
+Alchemy | Mage | Training in creating potions and salves.
+Awareness | Mage | This skill is a measure of a characters awareness of his surroundings.
+Herbalism | Mage | Knowledge of plants, herbs and their medical uses. Can be used to heal critically wounded characters.
+Hermeticism | Mage | Skilled with arcane spells and rituals.
+Lore | Mage | General knowledge.
+Thaumaturgy | Mage | Proficiency with divine spells.
 
-
-Talents list
+### Talents list
 
 The following list contains all talents available for characters in WR&M. GMs are free to add more if needed.
 
-Armored caster
+#### Armored caster
 You may reduce the armor penalty by 2. May be taken more than once.
 
-Blood mage
+#### Blood mage
 You may substitute mana with hitpoints when casting spells.
 
-Champion
+#### Champion
 You have to select a cause. You get a +2 bonus on attack and damage rolls against enemies of that cause. May be taken more than once.
 
-Channeller
+#### Channeller
 You can add your Mage attribute level to your magic attack damage once per combat
 
-Craftsman
+#### Craftsman
 You are trained in a craft like blacksmithing, carpentry or bowmaking. May be taken more than once.
 
-Dual-wielding
+#### Dual-wielding
 You may wield a weapon in your off-hand without penalty. Does not grant an extra attack.
 
-Familiar
+#### Familiar
 You have a small animal like a cat or falcon as a pet that can do some simple tricks.
 
-Henchman
+#### Henchman
 You are followed by a henchman, that carries your equipment and treasure around.
 
-Hunter
+#### Hunter
 Your character is a trained hunter and may live off the land easily. When given enough time, he can provide enough food to feed a party of four.
 
-Leadership
+#### Leadership
 You are a talented leader any may command troops.
 
-Lucky devil
+#### Lucky devil
 You may reroll any roll once per scene (or combat)
 
-Massive attack
+#### Massive attack
 You can add your Warrior attribute level to your melee attack damage once per combat
 
-Precise shot
+#### Precise shot
 You can add your Rogue attribute level to your ranged attack damage once per combat
 
-Sailor
+#### Sailor
 You are trained in steering a boat or sailing ship and don't get any penalties for fighting on a sea vessel.
 
-Sixth Sense
+#### Sixth Sense
 You may roll the dice before any ambush etc., if you rolls 4+ you're not surprised and may act first.
 
-Tough as nails
+#### Tough as nails
 Every damage taken is reduced by 2.
 
-Appendix 2: Optional Rules
+## Appendix 2: Optional Rules
 
 Non-human player characters
 A common trope of the fantasy RPG genre are non-human player character, mainly Elves, Dwarves, Halflings and Gnomes. Some games even allow players to play a member of the more bestial races, like Orcs, Goblins or even more fantastic creatures. Although there are no Elves, Dwarves, Gnomes and Halflings in the campaign setting presented here in the book, they may be viable player options in other fantasy settings.
