@@ -118,7 +118,7 @@ In order to cast spells a character needs at least Mage level 1. The thaumaturgy
 Spells are divided into four circles. Spells of the 1st circle are the easiest and less powerful, while 4th circle spell are considerably more powerful and need more skill to be cast.
 
 Circle | Mana cost | DL
-:---: | :---: | :---:
+--- | --- | ---
 1st | 1 | 5 
 2nd | 2 | 7
 3rd | 4 | 9
@@ -143,155 +143,101 @@ In order to cast spells a character needs to buy a new talent called “Spellcas
 This optional rule allows low-magic campaigns. By disallowing the Spellcaster talent you can even play without any magic at all.
 
 ## Spell List
-
-1st Circle Spells
- Frostburn
+### 1st Circle Spells
+#### Frostburn
 Touch attack that causes 1d6-2 damage. Each level of mana burn raises the damage by +1.
 
-Healing Hand
+#### Healing Hand
 Heals 1d6 HP. The caster has to touch the person he wants to heal. Each level of mana burn heals an additional hitpoint.
 
-Magic light
+#### Magic light
 Caster creates a magic light on the tip of his staff or other weapon, that illuminates a 10 yards radius much like a torch. Mana burn can be used to add one or more of the following effects:
 
-● Ball of light (the caster forms the light into a ball that he can control with his thoughts)
-● Colored light (the light shines in a color of the caster's choosing)
-● Light beam (the light shines in a tight beam which reaches 15 yards)
-● Flash (the effect lasts only one round but blinds everyone who looks unprotected into the flash for 1d6 rounds)
+- Ball of light (the caster forms the light into a ball that he can control with his thoughts)
+- Colored light (the light shines in a color of the caster's choosing)
+- Light beam (the light shines in a tight beam which reaches 15 yards)
+- Flash (the effect lasts only one round but blinds everyone who looks unprotected into the flash for 1d6 rounds)
 
 The magic light shines for 1 hour or until dispelled by the caster. It can also be sustained for 1 additional mana per hour.
 
-Sense Magic
+#### Sense Magic
 Caster can sense magic in a 3 yards radius. Each level of mana burn adds another yard to the radius.
 
-Telekinesis
+#### Telekinesis
 Caster may remotely move one item up to 1kg. Each mana burn adds another kilogram of weight that can be moved. Telekinesis lasts for 1 min and can be sustained for 1 additional mana per minute.
 
-2nd Circle Spells
-
-Create food and water
+### 2nd Circle Spells
+#### Create food and water
 The spell creates one daily ration of food and water for one person.
 
-Healing Light
+#### Healing Light
 Heals 1d6 HP. Each level of mana burn heals two additional hitpoints.
 
-Identify
+#### Identify
 Allows the caster to identify one magic property of an item. Each level of mana burn identifies one additional property.
 
-Levitation
+#### Levitation
 Caster may slowly float up and down for up to 3 minutes. The spell can be sustained for 1 mana per additional minute. Please note that this spell provides no horizontal propulsion, but a caster may other means to float horizontally.
 
-Lightning bolt
+#### Lightning bolt
 Missile attack that causes 1d6+2 damage (+2 per level of mana burn)
 
-Magic Armor
+#### Magic Armor
 A magic bubble around the caster absorbs any damage until its HP are depleted or dispelled. The bubble has 4 hitpoint and each level of mana burn adds 4 more. Excess damage is not transferred.
 
-3rd Circle Spells
-
-Chain Lightning
+###3rd Circle Spells
+#### Chain Lightning
 As lightning bolt, but can also attack multiple enemies as long as they are within 5 yards of each other. The damage of the spell can be increased by mana burns. The maximum number of targets affected is 3.
 
-Walk on Air
+#### Walk on Air
 The caster may walk on air as if it were solid ground for up to 3 minutes. The spell can be sustained for 1 minute per additional mana spent.
 
-Firebolt
-This missile spell causes 3d6 damage in a radius of three yards. Mana burn can be used to either improve the damage by +2 or the radius by 2
-yards.
+#### Firebolt
+This missile spell causes 3d6 damage in a radius of three yards. Mana burn can be used to either improve the damage by +2 or the radius by 2 yards.
 
-Enchant weapon
+#### Enchant weapon
 The caster puts a temporary enchantment on a weapon that then grants its wielder +2 on attack rolls and any damage caused. Lasts for one combat encounter. Mana burn can be used to add +1 to both the attack and damage bonuses.
 
-Stasis
-Touch-attack that puts target into stasis. For the target time stands still, it cannot move, attack or be attacked. Last for a number of hours equal
-to successes rolled. 
+#### Stasis
+Touch-attack that puts target into stasis. For the target time stands still, it cannot move, attack or be attacked. Last for a number of hours equal to successes rolled. 
 
-4th Circle Spells
-
-Summon Earth Elemental
+###4th Circle Spells
+#### Summon Earth Elemental
 Caster summons an Earth Elemental under his control. The Elemental is destroyed when its HP are depleted or when dispelled by the caster.
 
-Magic step
+#### Magic step
 The caster can teleport up to 10 yards in any direction. Each mana burn can add 10 yards to the distance teleported. No line of sight is needed, but the caster must have a clear image of the place where he wants to teleport to in his mind.
 
-Use moongate
+#### Use moongate
 The caster can open moongates at special places (like stone circles) that allow instant travel over long distances. Moongates start to close slowly after 2 minutes. They can not be held open nor can they can only be open once every 6 hours.
 
-Return to life
+#### Return to life
 Caster can revive one fallen character as long as the body is still intact and warm. Upon success the character also gets back 2 HP. Mana burn can be used to increase the healing by 2 hitpoints.
 
-Summon Phantom Steed
+#### Summon Phantom Steed
 The caster calls a phantom steed that can act as a mount for 24 hours. The phantom steed needs no rest and can walk on water. This spell can not be sustained, the steed must be resummoned after the 24 hours.
 
-Equipment
+## Equipment
 Each character starts with 200 silver pieces (SP) to purchase equipment. Every character can wield every weapon. Spellcasting characters may wear armor, but the armor penalty of the armor worn raises the mana cost of each spell cast.
 
-Weapons
-
-Weapon
-Skill
-Damage
-Cost (SP)
-Axe
-Axes
-1d6
-5
-Bow
-Bows
-1d6
-4
-Crossbow
-Bows
-1d6+3
-8
-Dagger
-Daggers
-1d6-2
-2
-Dragon pistol
-Firearms
-1d6+4
-18
-Dragon rifle
-Firearms
-2d6
-25
-Halberd
-Axes
-1d6
-7
-Longbow
-Bows
-1d6+2
-8
-Mace
-Blunt
-1d6
-5
-Spear
-Thrown
-1d6
-3
-Staff
-Blunt
-1d6
-2
-Sword
-Swords
-1d6
-5
-Throwing star
-Thrown
-1d6-2
-2
-Two-handed weapon
-*
-2d6
-10
-Warhammer
-Blunt
-1d6
-5
+### Weapons
+Weapon | Skill | Damage | Cost (SP)
+--- | --- | --- | ---
+Axe | Axes | 1d6 | 5
+Bow | Bows| 1d6 | 4
+Crossbow | Bows | 1d6+3 | 8
+Dagger | Daggers | 1d6-2 | 2
+Dragon pistol | Firearms | 1d6+4 | 18
+Dragon rifle | Firearms | 2d6 | 25
+Halberd | Axes | 1d6 | 7
+Longbow | Bows | 1d6+2 | 8
+Mace | Blunt | 1d6 | 5
+Spear | Thrown | 1d6 | 3
+Staff | Blunt | 1d6 | 2
+Sword | Swords | 1d6 | 5
+Throwing star | Thrown | 1d6-2 | 2
+Two-handed weapon | * | 2d6 | 10 
+Warhammer | Blunt | 1d6 | 5
 
 Bow - The maximum range of the bow is 80 yards. The DL for hitting a target at least 40 yards away is increased by 4. A bundle of 10 arrows costs 2 SP.
 
@@ -301,7 +247,7 @@ Dagger - The dagger can be thrown or used in melee combat. If thrown the Thrown 
 
 Dragon pistol - The maximum range of the dragon pistol is 20 yards. The DL for hitting a target at least 10 yards away is increased by 4. Reloading the pistol takes one turn. 10 shots costs 4 SP.
 
-Dragon rifle - The maximum range of the dragon pistol is 40 yards. The DL for hitting a target at least 20 yards away is increased by 4. Reloading the pistol takes one turn. 10 shots costs 4 SP.
+Dragon rifle - The maximum range of the dragon pistol is 40 yards. The DL for hitting a target at least 20 yards away is increased by 4. Reloading the rifle takes one turn. 10 shots costs 4 SP.
 
 Halberd - The halberd has a reach of 2 yards.
 
@@ -313,61 +259,22 @@ Throwing star - The maximum range of the shuriken is 20 yards.
 
 Two-handed weapon - Swords, axes, maces and warhammers exist in larger, two-handed versions. The appropriate skill is used for each weapon.
 
-Armor
+### Armor
 
-
-Armor
-Defense
-Armor Penalty
-Cost (SP)
-Clothes
-0
-0
-3
-Padded cloth
-1
-0
-8
-Leather
-2
-1
-15
-Scale
-3
-2
-23
-Lamellar
-4
-3
-35
-Chain
-5
-4
-70
-Light plate
-6
-5
-90
-Heavy plate
-7
-5
-120
-Golem armor
-8
-*
-*
-Small shield
-+1
-+2
-5
-Large shield
-+2
-+4
-12
-Tower shield
-+3
-+6
-15
+Armor | Defense| Armor Penalty | Cost (SP)
+--- | --- | --- | ---
+Clothes | 0 | 0 | 3
+Padded cloth | 1 | 0 | 8
+Leather | 2 | 1 | 15
+Scale | 3 | 2 | 23
+Lamellar | 4 | 3 | 35
+Chain | 5 | 4 | 70
+Light plate | 6 | 5 | 90
+Heavy plate | 7 | 5 | 120
+Golem armor | 8 | * | *
+Small shield | +1 | +2 | 5
+Large shield | +2 | +4 | 12
+Tower shield | +3 | +6 | 15
 
 The stats given above are for full suits of armor.
 
@@ -375,9 +282,39 @@ Light and heavy plate - plate armor must be fitted to the wearer. Ill-fitted pla
 
 Golem armor - golem armor is a bulky armor created by the armor smiths of a bygone era. It not only is incredibly tough, but also grants a bonus of 1d6 to all weapon damage. Casting is impossible when using golem armor. There are rumors of special golem armor that not even allow spell casting but also are a magical implement in themselves. Golem armor is not available for sale.
 
-General equipmnet
-
-Item          SP Adventurer's Kit     5 Backpack        4 Cask of beer        6  Cask of wine                                   9 Donkey or Mule                            25 Iron Rations (for 1 week)    14 Lantern        5 Lock pick       2 Noble’s clothing      12 Normal clothing      3 Ox cart       7 Packhorse       30 Pickaxe        3 Pole 3 yards        1 Rations (for 1 week)      7 Riding horse        75 Rope (10 yards)      2 Saddle bags, saddle and bridle  8 Torch         1 Travel clothing       5 Warhorse        150 1st circle spell scroll     25 2nd circle spell scroll      50 3rd circle spell scroll      75 4th circle spell scroll      100 Spellbook       20 Magic implement (1st circle)   35 Magic implement (2nd circle)   70 Magic implement (3rd circle)   140 Magic implement (4th circle)    250 
+### General equipment
+Item | SP
+--- | ---
+Adventurer's Kit | 5
+Backpack | 4
+Cask of beer | 6
+Cask of wine | 9
+Donkey or Mule | 25
+Iron Rations (for 1 week) | 14
+Lantern | 5
+Lock pick | 2
+Noble’s clothing | 12
+Normal clothing | 3
+Ox cart | 7
+Packhorse | 30
+Pickaxe | 3
+Pole 3 yards | 1
+Rations (for 1 week) | 7
+Riding horse | 75
+Rope (10 yards) | 2
+Saddle bags, saddle and bridle | 8
+Torch | 1
+Travel clothing | 5
+Warhorse | 150
+1st circle spell scroll | 25
+2nd circle spell scroll | 50
+3rd circle spell scroll | 75
+4th circle spell scroll | 100
+Spellbook | 20
+Magic implement (1st circle) | 35
+Magic implement (2nd circle) | 70
+Magic implement (3rd circle) | 140
+Magic implement (4th circle) | 250
 
 Adventurer’s Kit – This kit contains flint and tinder, a water flask, a blanket, a bed roll and a small tent.
 
@@ -389,38 +326,38 @@ Magic Implement – A magic implement can take many forms (gauntlet, amulet, wan
 
 Torch – a lit or un-lit torch can be used as an improvised weapon. Use the Blunt skill. Damage is 1d6-2 for unlit and 1d6-1 for lit torches. Flammable enemies may be set ablaze.
 
-Magic Items
+### Magic Items
 
-Runeblade
+#### Runeblade
 This rune covered sword ignores any armor. Attack rolls with this weapon are made against basic Defense.
 
-Holy Sword
+#### Holy Sword
 This gold-hilted, silvery blade is bane against the undead, inflicting 2d6 damage to skeletons, zombies, vampires, and their ilk.
 
-Warmage armor
+#### Warmage armor
 This plate armor from the time of the Imperium uses special enchantments to allow casters to wear it without penalty. It’s statistics are equal to normal plate armor, but it’s AP is 0.
 
-Enchanted armor
+#### Enchanted armor
 The most common of enchanted armors, these suits and shields are unusually durable and permit the flow of arcane energies more effectively. Enchanted armors and shields gain a +1 Defense bonus and reduce their Armor Penalties by 1. Roll 1d6 to determine the type, then another 1d6 to determine the actual armor/shield:
 Roll 1. Type (1-4: Armor, 5-6: Shield)
 Roll 2. Actual armor/shield (Armor 1: Leather, 2: Scale, 3: Lamellar, 4: Chain, 5: Light Plate, 6: Heavy Plate; Shield 1-2: Small Shield, 3-5: Large Shield, 6: Tower Shield)
 
-Healing potion
+#### Healing potion
 This vial contains a red bubbling liquid that heals 1d6 HP when quaffed.
 
-Mana potion
+#### Mana potion
 This vial contains a blue bubbling potion that restores 1d6 Mana points when quaffed.
 
-Gauntlets of Titanic Strength
+#### Gauntlets of Titanic Strength
 These large gauntlets cause 2d6 damage when used for unarmed attacks.
 
-Feathered cloak
+#### Feathered cloak
 This cloak is completely covered by raven feathers that slow every fall, so that the wearer does not sustain any damage from the fall.
 
-Changestave
+#### Changestave
 This simple whitewood stave can extend or retract on command, shrinking so as to fit within the palm or growing up to 10 yards in length or any length in between. This makes it extremely versatile; it can be easily concealed, used as a baton or staff in combat, used as a walking stick, used for poling rafts and boats over shallow water, or for bridging gaps shorter than its full extended length. The Changestave has the same traits as the staff when used in combat.
 
-Game Mastering
+## Game Mastering
 
 The following section is for the Gamemaster only. If you are a player, please stop reading here.
 
