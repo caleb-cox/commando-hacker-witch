@@ -869,30 +869,30 @@ Animal have slightly different stat blocks from humans. Instead of skills, talen
 #### Golem, work
 |||
 --- | ---
-**Attributes: Warrior 10, Rogue 0, Mage 2 
-**HP: 20
-**Mana: 0
-**Defense: 9 (+2 light armor plating)
-**Attacks: steel fist (uses Warrior attribute) 2d6
+**Attributes:** | Warrior 10, Rogue 0, Mage 2 
+**HP:** | 20
+**Mana:** | 0
+**Defense:** | 9 (+2 light armor plating)
+**Attacks:** | steel fist (uses Warrior attribute) 2d6
 
 #### Skeleton
 |||
 --- | ---
-**Attributes: Warrior 3, Rogue 3, Mage 0 
-**HP: 9
-**Mana: 0
-**Defense: 7 (+1 for rusted armor)
-**Skeleton Warrior Trappings: Rusted armor, broken shield, sword
-**Skeleton Archer Trappings: Rusted armor, bow with 10 arrows
-**Notes: Skeletons ignore half damage from all but blunt weapons and axes.
+**Attributes:** | Warrior 3, Rogue 3, Mage 0 
+**HP:** | 9
+**Mana:** | 0
+**Defense:** | 7 (+1 for rusted armor)
+**Skeleton Warrior Trappings:** | Rusted armor, broken shield, sword
+**Skeleton Archer Trappings:** | Rusted armor, bow with 10 arrows
+**Notes:** | Skeletons ignore half damage from all but blunt weapons and axes.
 
 #### Zombie
 |||
 --- | ---
-**Attributes: Warrior 6, Rogue 0, Mage 0 
-**HP: 12
-**Mana: 0
-**Defense: 7
+**Attributes:** | Warrior 6, Rogue 0, Mage 0 
+**HP:** | 12
+**Mana:** | 0
+**Defense:** | 7
 
 ## Appendix 4: Character Creation Summary
 1.  Distribute 10 attribute levels among the three attributes Warrior, Rogue, and Mage. No attribute may be higher than six.
