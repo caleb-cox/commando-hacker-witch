@@ -692,105 +692,140 @@ In this Bestiary you’ll find average stats for various non-player characters a
 ### Animals
 Animal have slightly different stat blocks from humans. Instead of skills, talents and trappings, the animal's various attacks are listed. Animals can attack with all their natural attacks if not noted otherwise. In some cases the exploding die rule for damage does not apply.
 
-Bear
-Attributes: Warrior 8, Rogue 4, Mage 0 
-HP: 20, Mana: 0
-Defense: 10 (+2 for thick fur)
-Attacks: 2x paws (uses Warrior attribute) 1d6+4 damage, Bite (uses Warrior attribute) 2d6 
+#### Bear
+|||
+--- | ---
+**Attributes:** | Warrior 8, Rogue 4, Mage 0 
+**HP:** | 20
+**Mana:** | 0
+**Defense:** | 10 (+2 for thick fur)
+**Attacks:** | 2x paws (uses Warrior attribute) 1d6+4 damage, Bite (uses Warrior attribute) 2d6 
 
-Bird of prey
-Attributes: Warrior 2, Rogue 6, Mage 0 
-HP: 4, Mana: 0
-Defense: 9 (+3 while flying)
-Attacks: Beak1 (uses Rogue attribute) 1d6/2 damage
-Notes: These stats can also be used for ravens and other birds of comparable size
+#### Bird of prey
+|||
+--- | ---
+**Attributes:** | Warrior 2, Rogue 6, Mage 0 
+**HP:** | 4
+**Mana:** | 0
+**Defense:** | 9 (+3 while flying)
+**Attacks:** | Beak1 (uses Rogue attribute) 1d6/2 damage
+**Notes:** | These stats can also be used for ravens and other birds of comparable size
 
-Cat, large
-Attributes: Warrior 4, Rogue 8, Mage 0 
-HP: 12, Mana: 0
-Defense: 8
-Attacks: 2x Claws (uses Rogue attribute) 1d6+2 damage, Bite (uses Warrior attribute) 1d6+3 
+#### Cat, large
+|||
+--- | ---
+**Attributes:** | Warrior 4, Rogue 8, Mage 0 
+**HP:** | 12
+**Mana:** | 0
+**Defense:** | 8
+**Attacks:** | 2x Claws (uses Rogue attribute) 1d6+2 damage, Bite (uses Warrior attribute) 1d6+3 
 
-Cat, small
-Attributes: Warrior 2, Rogue 8, Mage 0 
-HP: 5, Mana: 0
-Defense: 8
-Attacks: 2x Claws1 (uses Rogue attribute) 1d6/2 damage
+#### Cat, small
+|||
+--- | ---
+**Attributes:** | Warrior 2, Rogue 8, Mage 0 
+**HP:** | 5
+**Mana:** | 0
+**Defense:** | 8
+**Attacks:** | 2x Claws1 (uses Rogue attribute) 1d6/2 damage
 
-Dog
-Attributes: Warrior 4, Rogue 2, Mage 0 
-HP: 6, Mana: 0
-Defense: 7
-Attacks: Bite1 (uses Warrior attribute) 1d6 damage
-Notes: can be trained as a mount for small races
+#### Dog
+|||
+--- | ---
+**Attributes:** | Warrior 4, Rogue 2, Mage 0 
+**HP:** | 6
+**Mana:** | 0
+**Defense:** | 7
+**Attacks:** | Bite1 (uses Warrior attribute) 1d6 damage
+**Notes:** | can be trained as a mount for small races
 
-Fire beetle
-Attributes: Warrior 4, Rogue 4, Mage 0 
-HP: 8, Mana: 0
-Defense: 8 (+3 for chitin armor)
-Attacks: Fire spray (uses Rogue attribute) 1d6 damage, range 10 yards
+#### Fire beetle
+|||
+--- | ---
+**Attributes:** | Warrior 4, Rogue 4, Mage 0 
+**HP:** | 8
+**Mana:** | 0
+**Defense:** | 8 (+3 for chitin armor)
+**Attacks:** | Fire spray (uses Rogue attribute) 1d6 damage, range 10 yards
 
-Giant beetle
-Attributes: Warrior 4, Rogue 4, Mage 0 
-HP: 14, Mana: 0
-Defense: 8 (+3 for chitin armor)
-Attacks: Bite 1d6+2 damage
+#### Giant beetle
+|||
+--- | ---
+**Attributes:** | Warrior 4, Rogue 4, Mage 0 
+**HP:** | 14
+**Mana:** | 0
+**Defense:** | 8 (+3 for chitin armor)
+**Attacks:** | Bite 1d6+2 damage
 
-Giant leech
-Attributes: Warrior 3, Rogue 6, Mage 0 
-HP: 15, Mana: 0
-Defense: 8
-Attacks: Venomous bite 
-(uses Rogue attribute) 
-1d6-2 damage
-(mild poison)
+#### Giant leech
+|||
+--- | ---
+**Attributes:** | Warrior 3, Rogue 6, Mage 0 
+**HP:** | 15
+**Mana:** | 0
+**Defense:** | 8
+**Attacks:** | Venomous bite (uses Rogue attribute) 1d6-2 damage (mild poison)
 
-Giant rat
-Attributes: Warrior 4, Rogue 2, Mage 0 
-HP: 12, Mana: 0
-Defense: 7
-Attacks: Bite (uses Warrior attribute) 1d6 damage
+#### Giant rat
+|||
+--- | ---
+**Attributes:** | Warrior 4, Rogue 2, Mage 0 
+**HP:** | 12
+**Mana:** | 0
+**Defense:** | 7
+**Attacks:** | Bite (uses Warrior attribute) 1d6 damage
 
-Giant spider
-Attributes: Warrior 6, Rogue 6, Mage 0 
-HP: 24, Mana: 0
-Defense: 8 (+4 for chitin armor)
-Attacks: Venomous bite 
-(uses Rogue attribute) 
-1d6+2 damage (mild poison)
-Notes: can be trained as a mount for small races
+#### Giant spider
+|||
+--- | ---
+**Attributes:** | Warrior 6, Rogue 6, Mage 0 
+**HP:** | 24
+**Mana:** | 0
+**Defense:** | 8 (+4 for chitin armor)
+**Attacks:** | Venomous bite (uses Rogue attribute) 1d6+2 damage (mild poison)
+**Notes:** | can be trained as a mount for small races
 
-Horse
-Attributes: Warrior 5, Rogue 5, Mage 0 
-HP: 12, Mana: 0
-Defense: 9
-Attacks: Bite1 (uses Warrior attribute) 1d6 damage
-Notes: Warhorses have 1d6+4 additional hitpoints and have one trample attack (which uses Warrior attribute) that causes 2d6 damage
+#### Horse
+|||
+--- | ---
+**Attributes:** | Warrior 5, Rogue 5, Mage 0 
+**HP:** | 12
+**Mana:** | 0
+**Defense:** | 9
+**Attacks:** | Bite1 (uses Warrior attribute) 1d6 damage
+**Notes:** | Warhorses have 1d6+4 additional hitpoints and have one trample attack (which uses Warrior attribute) that causes 2d6 damage
 
-Venomous snake
-Attributes: Warrior 2, Rogue 6, Mage 0 
-HP: 6, Mana: 0
-Defense: 8
-Attacks: venomous bite1 (uses Rogue at
-tribute) 1d6/2 damage + poison (mild or lethal, see Chapter 6)
+#### Venomous snake
+|||
+--- | ---
+**Attributes:** | Warrior 2, Rogue 6, Mage 0 
+**HP:** | 6
+**Mana:** | 0
+**Defense:** | 8
+**Attacks:** | venomous bite1 (uses Rogue attribute) 1d6/2 damage + poison (mild or lethal, see Chapter 6)
 
-Wolf
-Attributes: Warrior 4, Rogue 4, Mage 0 
-HP: 8, Mana: 0
-Defense: 8
-Attacks: Bite (uses Warrior attribute) 1d6 damage
+#### Wolf
+|||
+--- | ---
+**Attributes:** | Warrior 4, Rogue 4, Mage 0 
+**HP:** | 8
+**Mana:** | 0
+**Defense:** | 8
+**Attacks:** | Bite (uses Warrior attribute) 1d6 damage
 
-Worg
-Attributes: Warrior 6, Rogue 6, Mage 0 
-HP: 25, Mana: 0
-Defense: 10 (+2 for thick fur)
-Attacks: Bite (uses Warrior attribute) 1d6+3 damage
-Notes: can be trained as a mount
+#### Worg
+|||
+--- | ---
+**Attributes:** | Warrior 6, Rogue 6, Mage 0 
+**HP:** | 25
+**Mana:** | 0
+**Defense:** | 10 (+2 for thick fur)
+**Attacks:** | Bite (uses Warrior attribute) 1d6+3 damage
+**Notes:** | can be trained as a mount
 
 1) The exploding die rule does not apply
 
-
-Magical creatures and the undead
+### Magical creatures and the undead
 
 Drake
 Attributes: Warrior 8, Rogue 6, Mage 2 
