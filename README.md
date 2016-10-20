@@ -30,10 +30,10 @@ Each character is also further detailed by a couple of skills. Skills are abilit
 ### Talents
 Talents give player characters special abilities that set them apart from mere commoners. You don't have to roll the dice in order to use talents. As soon as a character has acquired a new talent he gets access to a special ability. Some talents may be taken several times.
 
-### Hitpoints, Fate and Mana
-Hitpoints are a measure of how many hits a character may sustain before going down. A character with 0 HP is considered dead or dying. Fate can be used to save one's life in certain situations, or take over some narrative control from the GM. Mana is the raw magical energy that is used by Witchs to cast magic spells. Characters can't perform any magic when their Mana is depleted.
+### Hitpoints, Luck and Mana
+Hitpoints are a measure of how many hits a character may sustain before going down. A character with 0 Health is considered dead or dying. Luck can be used to save one's life in certain situations, or take over some narrative control from the GM. Mana is the raw magical energy that is used by Witchs to cast magic spells. Characters can't perform any magic when their Mana is depleted.
 
-Each character starts with Hipoints equal to 6 plus his Commando attribute, Fate equal to his Hacker attribute and Mana equal to two times his Witch attribute. You start with at least 1 Fate if your Hacker attribute is at level 0, though.
+Each character starts with Hipoints equal to 6 plus his Commando attribute, Luck equal to his Hacker attribute and Mana equal to two times his Witch attribute. You start with at least 1 Luck if your Hacker attribute is at level 0, though.
 
 ### Armor and Defense
 Each character has a Defense stat that is equal to 4 plus half the sum of his Commando and Hacker attributes rounded down. Worn armor and shields grants a bonus to Defense but raise the Mana cost of spells by their Armor Penalty (AP).
@@ -70,14 +70,14 @@ Optional: Instead of rolling, you can just add 3 to the relevant attribute (and 
 #### Circumstantial modifiers
 There are circumstances which can make tasks harder or easier to perform than usual: The lack of tools makes it harder to craft something, a master crafted weapon grants a bonus to an attack, or bad lighting conditions make it easier to hide in the shadows. The GM may add circumstantial modifiers to any DL if appropriate.
 
-### Using Fate
-A character can spend one of his Fate points to do the following (GM approval needed): 
+### Using Luck
+A character can spend one of his Luck points to do the following (GM approval needed): 
 
 - Ignore an attack that would have killed the character
 - Change a minor detail in the game world. For example: your character knows the NPC you’ve just met. Or there is a shop in the town you just entered with the equipment you need.
 - Reroll a single die roll or add +2 to a single check
 
-Fate doesn't regenerate automatically, so players are advised not to waste their Fate. GMs are meant to grant players Fate for heroic actions, good role playing and certain goals their characters achieved.
+Luck doesn't regenerate automatically, so players are advised not to waste their Luck. GMs are meant to grant players Luck for heroic actions, good role playing and certain goals their characters achieved.
 
 ## Combat
 ### Initiative
@@ -94,11 +94,11 @@ When a character tries to hit another character in close or ranged combat, his p
 Example: A thief wants to backstab a guard with a dagger. The skill list determines that when using a dagger the Hacker attribute applies. The thief knows this skill, so he may also add the +2 modifier to his attack roll.
 
 ### Damage and Healing
-After having scored a hit, you determine the damage caused. Damage is determined by the weapon used. See the weapon list for details. Please note that damage rolls are always subject to the "exploding die" rule. The victims hitpoints are reduced by a number of points equal to the damage caused. If the hitpoints drop to 0, the character is dead or dying. A character's HP may never drop below 0.
+After having scored a hit, you determine the damage caused. Damage is determined by the weapon used. See the weapon list for details. Please note that damage rolls are always subject to the "exploding die" rule. The victims hitpoints are reduced by a number of points equal to the damage caused. If the hitpoints drop to 0, the character is dead or dying. A character's Health may never drop below 0.
 
 Optional: Characters who were reduced to under half their maximum hitpoints are considered seriously wounded and get a -3 modifier on all checks.
 
-A character heals hitpoints equal to his highest attribute per day of rest. Only light activities are allowed during that time. If a character takes part in a combat, chase or a similar activity he may only heal a single hitpoint that day. Characters with the Herbalism skill may use his abilities to speed up healing. When treated by such a character, you get +2 HPs per day of rest.
+A character heals hitpoints equal to his highest attribute per day of rest. Only light activities are allowed during that time. If a character takes part in a combat, chase or a similar activity he may only heal a single hitpoint that day. Characters with the Herbalism skill may use his abilities to speed up healing. When treated by such a character, you get +2 Healths per day of rest.
 
 ## Magic
 ### Using Magic
@@ -132,23 +132,13 @@ A spell caster may choose to burn additional mana to improve the spell's effects
 ### Sustaining spells
 Usually all spells have a certain duration or cause an instant effect. But there may be cases when a caster wants to sustain a spell over longer periods of time. If a spell can be sustained, it's listed in the spells description. In order to sustain a spell over longer period of time, the caster has to concentrate which penalizes all of his actions by a modifier of -1. The mana cost for sustaining the spell is listed with the spell's description. 
 
-### Variant: Commando, Hacker, & Scholar
-Magic is very common in CH&W. Everyone with a Witch attribute value of 1 or higher can cast spells. If you want to run a more low-magic 
-game, you can make the following changes:
-
-The Witch attribute is replaced by the Scholar attribute. All skills that used Witch before now use the Scholar attribute. This is a purely cosmetic change, so if this isn’t that important to you, you can of course stick to the Witch attribute.
-
-In order to cast spells a character needs to buy a new talent called “Spellcaster” which gives access to 1st circle spells. Spell casting works as usual, although you are restricted to basic spells when you start with a new character. All other talents that affect your magic abilities (like Blood Witch) need Spellcaster as a prerequisite now. When the character levels up, he can acquire “Advanced Spellcaster” which grants him access to the remaining spell circles.
-
-This optional rule allows low-magic campaigns. By disallowing the Spellcaster talent you can even play without any magic at all.
-
 ## Spell List
 ### 1st Circle Spells
 #### Frostburn
 Touch attack that causes 1d6-2 damage. Each level of mana burn raises the damage by +1.
 
 #### Healing Hand
-Heals 1d6 HP. The caster has to touch the person he wants to heal. Each level of mana burn heals an additional hitpoint.
+Heals 1d6 Health. The caster has to touch the person he wants to heal. Each level of mana burn heals an additional hitpoint.
 
 #### Magic light
 Caster creates a magic light on the tip of his staff or other weapon, that illuminates a 10 yards radius much like a torch. Mana burn can be used to add one or more of the following effects:
@@ -171,7 +161,7 @@ Caster may remotely move one item up to 1kg. Each mana burn adds another kilogra
 The spell creates one daily ration of food and water for one person.
 
 #### Healing Light
-Heals 1d6 HP. Each level of mana burn heals two additional hitpoints.
+Heals 1d6 Health. Each level of mana burn heals two additional hitpoints.
 
 #### Identify
 Allows the caster to identify one magic property of an item. Each level of mana burn identifies one additional property.
@@ -183,7 +173,7 @@ Caster may slowly float up and down for up to 3 minutes. The spell can be sustai
 Missile attack that causes 1d6+2 damage (+2 per level of mana burn)
 
 #### Magic Armor
-A magic bubble around the caster absorbs any damage until its HP are depleted or dispelled. The bubble has 4 hitpoint and each level of mana burn adds 4 more. Excess damage is not transferred.
+A magic bubble around the caster absorbs any damage until its Health are depleted or dispelled. The bubble has 4 hitpoint and each level of mana burn adds 4 more. Excess damage is not transferred.
 
 ### 3rd Circle Spells
 #### Chain Lightning
@@ -203,7 +193,7 @@ Touch-attack that puts target into stasis. For the target time stands still, it 
 
 ### 4th Circle Spells
 #### Summon Earth Elemental
-Caster summons an Earth Elemental under his control. The Elemental is destroyed when its HP are depleted or when dispelled by the caster.
+Caster summons an Earth Elemental under his control. The Elemental is destroyed when its Health are depleted or when dispelled by the caster.
 
 #### Magic step
 The caster can teleport up to 10 yards in any direction. Each mana burn can add 10 yards to the distance teleported. No line of sight is needed, but the caster must have a clear image of the place where he wants to teleport to in his mind.
@@ -212,7 +202,7 @@ The caster can teleport up to 10 yards in any direction. Each mana burn can add 
 The caster can open moongates at special places (like stone circles) that allow instant travel over long distances. Moongates start to close slowly after 2 minutes. They can not be held open nor can they can only be open once every 6 hours.
 
 #### Return to life
-Caster can revive one fallen character as long as the body is still intact and warm. Upon success the character also gets back 2 HP. Mana burn can be used to increase the healing by 2 hitpoints.
+Caster can revive one fallen character as long as the body is still intact and warm. Upon success the character also gets back 2 Health. Mana burn can be used to increase the healing by 2 hitpoints.
 
 #### Summon Phantom Steed
 The caster calls a phantom steed that can act as a mount for 24 hours. The phantom steed needs no rest and can walk on water. This spell can not be sustained, the steed must be resummoned after the 24 hours.
@@ -343,7 +333,7 @@ Roll 1. Type (1-4: Armor, 5-6: Shield)
 Roll 2. Actual armor/shield (Armor 1: Leather, 2: Scale, 3: Lamellar, 4: Chain, 5: Light Plate, 6: Heavy Plate; Shield 1-2: Small Shield, 3-5: Large Shield, 6: Tower Shield)
 
 #### Healing potion
-This vial contains a red bubbling liquid that heals 1d6 HP when quaffed.
+This vial contains a red bubbling liquid that heals 1d6 Health when quaffed.
 
 #### Mana potion
 This vial contains a blue bubbling potion that restores 1d6 Mana points when quaffed.
@@ -356,51 +346,6 @@ This cloak is completely covered by raven feathers that slow every fall, so that
 
 #### Changestave
 This simple whitewood stave can extend or retract on command, shrinking so as to fit within the palm or growing up to 10 yards in length or any length in between. This makes it extremely versatile; it can be easily concealed, used as a baton or staff in combat, used as a walking stick, used for poling rafts and boats over shallow water, or for bridging gaps shorter than its full extended length. The Changestave has the same traits as the staff when used in combat.
-
-## Game Mastering
-
-The following section is for the Gamemaster only. If you are a player, please stop reading here.
-
-### Running Commando, Hacker & Witch
-CH&W leaves a lot of room for interpretation in the rules. Not everything you can think of has been covered by the rules and in many cases GM fiat plays a major role. It shares this with a lot of early roleplaying games, which are now called "old school". But that aspect of the game allows it to be a perfect toolbox for players and GMs alike. If there's something missing from the game, you need for your campaign, just add it. If there's something that bothers you, change it or drop it completely. The possibilities are endless and the rules-lite nature of the game allows you to make the game your own without having to fear you break the whole game.
-
-### Start slow but then go epic
-Especially if you haven't run CH&W before, you should start things slow. Don't throw your players into an epic adventure at once but try to get a feel for the rules and the lethality of combat first. There's nothing more frustrating for your gamers than to have to face a total party kill in the first session.
-
-But after you're more comfortable with the game you should turn things up a notch. CH&W is supposed to be epic fantasy. The setting included in the book hints at powerful artifacts, lost technologies and ruined cities. This is probably what the players expect when they sit down at the gaming table, so the GM should deliver.
-
-### GM rulings instead of rules
-In most cases it's much faster and better for the flow of the game if the GM makes rulings when there's a rule discussion. Nothing destroys the mood of any game more than a lengthy discussion about some rules and the interpretation of what is printed in the book. To avoid that, the GM always has the last word in these cases. If the issue at hand still bothers you after the game, just look it up and make up your mind. But during the game you should just decide something instead of making a fuss about it.
-
-### Make it your own
-I can't stress this enough: make CH&W your own. GMs and players are encouraged to bring their own ideas to the table. Add new lands, create new monster, change the rules, write up your own spells. Whatever suits your fancy, do it. A lot of creativity went into the production of the game, but it definitely shouldn't end there! This book contains several optional rules that you can use, but you can of course add your own house rules as well. And if you think there's something critical or just very cool missing from the game, let us know!
-
-### Setting the mood with music
-When it comes to setting the mood nothing is better than playing some epic music in the background. Some people prefer movie and computer game soundtracks, some people prefer heavy metal tunes. The important part is that you and your players are comfortable with the music and that it enhances the mood of the game. Playing music from a horror movie in the background is a great way to improve the immersion if you're running a horror adventure.
-
-
-### Character advancement
-Characters in CH&W don’t have levels or need to amass experience points to improve their abilities. The GM decides when he thinks the characters are ready to advance. Usually this happens at the end of a successful adventure. If you want to let the characters advance faster, then you can allow them to advance after each session. Whenever the GM allows the players to advance they may do the following:
-
-- Raise one attribute by one.
-- Add 1d6 to either HP or Mana
-- Gain an additional skill
-- Gain a talent*
-
-\* Talents should be harder to get than an additional skill or HPs. The GM should send the player character on a sidequest to find a trainer, get admission to a special group or learn an ancient ritual that unlocks that talent.
-
-Optional: The GM can allow players to add 3 points of HP or Mana when they level up instead of rolling the dice.
-
-### Non-combat hazards
-Aside from combat there are a lot of ways a character may be harmed. The table below lists a few possible hazards.
-
-Hazard | Damage
---- | ---
-Fall | 1d6 per 3 yards of fall
-Suffocation/drowning | 1d6 per round
-Mild poison | 1d3 initial damage, 1 dam./rnd. until successful Commando check vs. DL 7.
-Lethal poison | 1d6 initial damage, 2 dam./rnd. until successful Commando check vs. DL 11.
-Fire | 1d6 per round exposed to the flames
 
 ## Appendix 1: Skills & Talents
 The table below lists all available skills for CH&W. Of course GMs are free to add more skills, if necessary.
@@ -479,431 +424,15 @@ You may roll the dice before any ambush etc., if you rolls 4+ you're not surpris
 #### Tough as nails
 Every damage taken is reduced by 2.
 
-## Appendix 2: Optional Rules
-
-### Non-human player characters
-A common trope of the fantasy RPG genre are non-human player character, mainly Elves, Dwarves, Halflings and Gnomes. Some games even allow players to play a member of the more bestial races, like Orcs, Goblins or even more fantastic creatures. Although there are no Elves, Dwarves, Gnomes and Halflings in the campaign setting presented here in the book, they may be viable player options in other fantasy settings.
-
-#### Player races
-At the beginning of character creation the player chooses the race of his character. He can choose from the following list, or the GM may create more races if he wishes.
-
-##### Elf
-Elves are usually looking like slender, beautiful humans with slightly elongated limbs and pointed ears. Elves have less body hair than humans. Elves have an exceptional talent for magic. Elves live much longer than humans but mature about as fast.
-
-Racial talents: Exceptional Attribute (Witch), Sixth Sense*, Weak
-
-##### Dwarf
-Dwarves are shorter and stockier than humans. Male dwarves usually sport thick and long beards. Dwarves are very strong and tough for their small size and are known for their fighting prowess. Dwarves live longer than humans but not as long as the Elves.
-
-Racial talents: Exceptional Attribute (Commando), Craftsman* (craft of player's choice), No Talent for Magic
-
-##### Halflings
-Halflings are even shorter than Dwarves and are sometimes even mistaken for human children. They usually live peaceful lives far away from the bustling towns of the humans. But if one of the members of that race goes on adventuring their exceptional talent for thievery shows.
-
-Racial talents: Exceptional Attribute (Hacker), Hunter*, Weak
-
-##### Lizardmen
-Lizardmen are an intelligent species that evolved from lizards. Instead of their ancestors they are not cold-blooded anymore, but they still prefer hot and dry areas. They resemble a humanoid lizard with scales instead of skin which also doubles as armor. Lizardmen are known for there lack of strong emotions and their keen logic.
-
-Racial talents: Natural Armor (Defense 2), Tough as Nails*, Outcast
-
-##### Goblins
-
-Goblins are the smallest of the greenskin races. They have a green skin, very long pointed ears and are about 1 yard tall. They have high voices and a mouth of razor-sharp teeth. Goblins seem to have a knack for salvaging and tinkering.
-
-Racial talents: Tinkerer, Lucky Devil*, Weak
-
-##### Orcs
-Orcs are slightly larger than humans, green skinned and are exceptionally strong. They can be savage warriors but they have a strong sense of honor. They usually look down on the smaller races like Goblins and Halflings. Orcish adventurers are a rare sight to behold, but often they are accompanied by one of their tame black wolves.
-
-Racial talents: Berserker, Exceptional Attribute (Commando), Outcast
-
-\* See Appendix 1 for details
-
-#### Racial talents
-A member of a non-human race gets a number of racial talents which help him to set apart from ordinary humans. Some of these talents are actually drawbacks meant to balance out the advantages that certain races get. GMs are encouraged to invent their own racial talents. The talents given in this chapter are meant as a source for inspiration. With the GMs approval players of other races may pick some of these talents as well.
-
-##### Berserker
-This talent allows a character to go berserk during combat. This adds +2 to the Commando attribute and all the damage caused. Temporarily the berserker ignores all damage effects. You still have to note down all the damage taken though, since the damage takes effect as soon as the berserk wears off. The Witch attribute is reduced to 0 during the duration of that effect and casting of magic is impossible. The character has to attack his nearest enemy only and is only allowed to fight in close quarters. When all the enemies are on the ground the berserker has to make an unmodified Easy (5) Witch check.
-
-If the check is successful, the effect ends and the character drop unconscious to the ground. If he has taken enough damage to be reduced to 0 or less HP he's dead or dying. If his HPs are still 1 or more, he's knocked out for 2d6 minutes before he awakes with a headache.
-
-In the case the roll was unsuccessful he has to attack the nearest ally. 
-
-##### Exceptional Attribute
-This talent allows the player to roll two six-sided dice instead of one when making a check using the relevant attribute. The highest result counts.
-
-##### Natural Armor
-Natural armor usually is in the form of scales or thick fur that protects the character from damage. The Defense granted by natural armor works as long as no other armor is worn.
-
-##### No Talent for Magic
-A character with this talent has a hard time grasping the concepts of magic or has a natural resistance to channeling mana. When making a casting check, the character rolls two d6 and takes the lowest result. In addition to that mana costs are doubled.
-
-##### Tinkerer
-A character with that talent has a knack for all things technical. He gets a +2 bonus on all checks related to repairing, dismantling or using technical equipment like mechanical traps, firearms, war golems, clockwork etc.
-
-##### Weak
-A character with this talent is more frail than the common man. He starts play with 3 + the Commando Attribute and when levelling up he only gets 1d6-2 hitpoints (minimum is 1 hp though).
-
-##### Outcast
-A character with this racial talent is considered an outcast in most societies. Every test related to social interaction with a member of a different race is modified by 3.
-
-### Dual-wielding and multiple attacks
-The talent Dual-wielding already allows characters to wield two weapons at once, although it does not grant additional attacks. If the GM approves player may also attack with both weapons in one round if they take the talent Double Attack with has Dual-wield as a prerequisite. When using Double Attack the character gets an additional attack with his off-hand weapon. Please note that both weapons have to be of the same type in order to use this maneuver. Two melee weapons or two ranged weapons are fine (dragon pistols for example), but one ranged and one melee weapon can't be used in that way. Please note that you can't dual-wield two-handed weapons.
-
-### Mounted Combat and Vehicle Combat
-Mounted combat and vehicle combat are basically handled much like combat between characters. The main difference are Maneuver checks. Fighting from horseback or out of a fast-moving vehicle like horse-drawn carriage can be a complicated and dangerous matter.
-
-#### Maneuvers
-Whenever a character wants to perform a maneuver on a horse or on a moving vehicle he has to make a Maneuver check. When he's riding a horse (or similar) mount he makes a riding check with a DL decided by the GM everytime he wants to perform a maneuver. Just moving in a straight line is not considered a maneuver in itself as long as the rider/driver is not fighting. Here are some example for common DLs:
-
-Maneuver | DL
---- | ---
-Walk (Horse) | -
-Canter (Horse) | 5
-Gallop (Horse) | 9
-Tight Turn | 7
-Sudden Stop | 9
-Jump over obstacle | 7
-
-When the maneuver check is successful the character can perfom combat actions like attacks, reloading his weapon or something similar. But if the check fails the character may fall from the horse or crash. In case the maneuver performed was riding/driving in a straight line, the character has to reduce speed immediately.
-
-### Ritual Magic
-Especially spells of the higher circles are beyond the reach of most casters. For one the DLs are pretty high and the mana cost itself may pose a problem for beginner mages. But with GMs approval casters may choose to perform ritual magic.
-
-The main difference between ritual magic and normal spell magic is that it takes a long time to perform. The following list gives the minimum casting times for ritual magic. Of course it doesn't usually make sense to use ritual magic for combat spells like Firebolt. The mana cost of the spell stays the same, and spell enhancement can be used, but the casting difficulty is reduced by 1 when the ritual is performed in the minimum time. If you take the double time, the DL is reduced by 2, and so on.
-
-Circle | Time | Max. Participants
---- | --- | ---
-1st circle | 1 min | 3
-2nd circle | 5 min | 6
-3rd circle | 15 min | 9
-4th circle | 1 hour | 12
-
-When more than one person performs the ritual they can pool their mana. If one or more participants have the Blood Witch talent they can use it to convert any participants HPs to Mana, too. This is often used in the form of ritual sacrifices where a Blood Witch performs a ritual and kills one of the (often involuntarily) participants to release his mana into the spell. The mana gained in such a way is doubled.
-
-## Appendix 3: Bestiary
-In this Bestiary you’ll find average stats for various non-player characters and common creatures. Please note that the Defense listed is always the unarmored Defense. Bonuses granted by armor or shields are listed in parenthesis. Optional : If you need non-human NPCs, like an Orcish Bandit, or an Elfish Witch, just add the racial talents listed in Appendix 2.
-
-### Common NPCs
-#### Apprentice Witch
-|||
---- | ---
-**Attributes:** | Commando 2, Hacker 3, Witch 5
-**HP:** | 8
-**Mana:** | 10
-**Defense:** | 6
-**Skills:** | Alchemy, Blunt, Thaumaturgy
-**Talents:** | Familiar (Raven)
-**Spells:** | Frostburn, Healing Hand
-**Trappings:** | Witch robes, Staff, pouch with 2d6 silver pieces
-
-#### Bandit
-|||
---- | ---
-**Attributes:** | Commando 5, Hacker 3, Witch 2 
-**HP:** | 11
-**Mana:** | 4
-**Defense:** | 10 (+2 for leather armor)
-**Skills:** | Axes, Bows, Riding
-**Talents:** | none
-**Trappings:** | Leather clothing, wide-brimmed hat, axe, crossbow with 10 bolts.
-
-#### Commoner
-|||
---- | ---
-**Attributes:** | Commando 2, Hacker 2, Witch 1 
-**HP:** | 8
-**Mana:** | 2
-**Defense:** | 6
-**Skills:** | none
-**Talents** | none
-**Trappings:** | Simple clothes, knife, pouch with 1 silver piece
-
-#### Cutthroat
-|||
---- | ---
-**Attributes:** | Commando 3, Hacker 5, Witch 2 
-**HP:** | 9
-**Mana:** | 4
-**Defense:** | 10
-**Skills:** | Daggers, Thievery, Thrown
-**Talents:** | Dual-wield
-**Trappings:** | Dark clothes, hooded cloak, dagger, 1d6 throwing stars
-
-#### Journeyman Witch
-|||
---- | ---
-**Attributes:** | Commando 3, Hacker 3, Witch 5
-**HP:** | 12
-**Mana:** | 10
-**Defense:** | 6
-**Skills:** | Alchemy, Blunt, Lore, Thaumaturgy
-**Talents:** | Familiar (Raven), Channeller
-**Spells:** | Frostburn, Healing Hand, Lightning Bolt
-**Trappings:** | Witch robes, Staff, pouch with 2d6 silver pieces
-
-
-#### Knight
-|||
---- | ---
-**Attributes:** | Commando 6, Hacker 2, Witch 3 
-**HP:** | 16
-**Mana:** | 6
-**Defense:** | 10 (+6 for light plate armor, +1 for small shield)
-**Skills:** | Lore, Polearms, Riding, Swords
-**Talents:** | Leadership, Henchman
-**Trappings:** | Light plate armor, sword, small shield, warhorse
-
-#### Priest
-|||
---- | ---
-**Attributes:** | Commando 3, Hacker 3, Witch 5
-**HP:** | 12
-**Mana:** | 10
-**Defense:** | 6
-**Skills:** | Awareness, Blunt, Lore
-**Talents:** | Champion (Imperial Faith), Henchman
-**Spells:** | Healing Hand, Create Food and Water
-**Trappings:** | Priest robes, Staff, holy symbol
-
-#### Soldier
-|||
---- | ---
-**Attributes:** | Commando 5, Hacker 3, Witch 2 
-**HP:** | 10
-**Mana:** | 4
-**Defense:** | 10 (+3 for scale armor, +2 for large shield)
-**Skills:** | Athletics, Firearms, Swords
-**Talents:** | none
-**Trappings:** | Scale armor, large shield, sword, dragon rifle with 20 shots.
-
-#### Town Guard
-|||
---- | ---
-**Attributes:** | Commando 5, Hacker 3, Witch 2 
-**HP:** | 11
-**Mana:** | 4
-**Defense:** | 10 (+3 for scale armor)
-**Skills:** | Bows, Polearms, Swords
-**Talents:** | none
-**Trappings:** | Scale armor, halberd, sword, crossbow with 10 bolts, manacles
-
-### Animals
-Animal have slightly different stat blocks from humans. Instead of skills, talents and trappings, the animal's various attacks are listed. Animals can attack with all their natural attacks if not noted otherwise. In some cases the exploding die rule for damage does not apply.
-
-#### Bear
-|||
---- | ---
-**Attributes:** | Commando 8, Hacker 4, Witch 0 
-**HP:** | 20
-**Mana:** | 0
-**Defense:** | 10 (+2 for thick fur)
-**Attacks:** | 2x paws (uses Commando attribute) 1d6+4 damage, Bite (uses Commando attribute) 2d6 
-
-#### Bird of prey
-|||
---- | ---
-**Attributes:** | Commando 2, Hacker 6, Witch 0 
-**HP:** | 4
-**Mana:** | 0
-**Defense:** | 9 (+3 while flying)
-**Attacks:** | Beak* (uses Hacker attribute) 1d6/2 damage
-**Notes:** | These stats can also be used for ravens and other birds of comparable size
-
-#### Cat, large
-|||
---- | ---
-**Attributes:** | Commando 4, Hacker 8, Witch 0 
-**HP:** | 12
-**Mana:** | 0
-**Defense:** | 8
-**Attacks:** | 2x Claws (uses Hacker attribute) 1d6+2 damage, Bite (uses Commando attribute) 1d6+3 
-
-#### Cat, small
-|||
---- | ---
-**Attributes:** | Commando 2, Hacker 8, Witch 0 
-**HP:** | 5
-**Mana:** | 0
-**Defense:** | 8
-**Attacks:** | 2x Claws* (uses Hacker attribute) 1d6/2 damage
-
-#### Dog
-|||
---- | ---
-**Attributes:** | Commando 4, Hacker 2, Witch 0 
-**HP:** | 6
-**Mana:** | 0
-**Defense:** | 7
-**Attacks:** | Bite* (uses Commando attribute) 1d6 damage
-**Notes:** | can be trained as a mount for small races
-
-#### Fire beetle
-|||
---- | ---
-**Attributes:** | Commando 4, Hacker 4, Witch 0 
-**HP:** | 8
-**Mana:** | 0
-**Defense:** | 8 (+3 for chitin armor)
-**Attacks:** | Fire spray (uses Hacker attribute) 1d6 damage, range 10 yards
-
-#### Giant beetle
-|||
---- | ---
-**Attributes:** | Commando 4, Hacker 4, Witch 0 
-**HP:** | 14
-**Mana:** | 0
-**Defense:** | 8 (+3 for chitin armor)
-**Attacks:** | Bite 1d6+2 damage
-
-#### Giant leech
-|||
---- | ---
-**Attributes:** | Commando 3, Hacker 6, Witch 0 
-**HP:** | 15
-**Mana:** | 0
-**Defense:** | 8
-**Attacks:** | Venomous bite (uses Hacker attribute) 1d6-2 damage (mild poison)
-
-#### Giant rat
-|||
---- | ---
-**Attributes:** | Commando 4, Hacker 2, Witch 0 
-**HP:** | 12
-**Mana:** | 0
-**Defense:** | 7
-**Attacks:** | Bite (uses Commando attribute) 1d6 damage
-
-#### Giant spider
-|||
---- | ---
-**Attributes:** | Commando 6, Hacker 6, Witch 0 
-**HP:** | 24
-**Mana:** | 0
-**Defense:** | 8 (+4 for chitin armor)
-**Attacks:** | Venomous bite (uses Hacker attribute) 1d6+2 damage (mild poison)
-**Notes:** | can be trained as a mount for small races
-
-#### Horse
-|||
---- | ---
-**Attributes:** | Commando 5, Hacker 5, Witch 0 
-**HP:** | 12
-**Mana:** | 0
-**Defense:** | 9
-**Attacks:** | Bite* (uses Commando attribute) 1d6 damage
-**Notes:** | Warhorses have 1d6+4 additional hitpoints and have one trample attack (which uses Commando attribute) that causes 2d6 damage
-
-#### Venomous snake
-|||
---- | ---
-**Attributes:** | Commando 2, Hacker 6, Witch 0 
-**HP:** | 6
-**Mana:** | 0
-**Defense:** | 8
-**Attacks:** | Venomous bite* (uses Hacker attribute) 1d6/2 damage + poison (mild or lethal, see Chapter 6)
-
-#### Wolf
-|||
---- | ---
-**Attributes:** | Commando 4, Hacker 4, Witch 0 
-**HP:** | 8
-**Mana:** | 0
-**Defense:** | 8
-**Attacks:** | Bite (uses Commando attribute) 1d6 damage
-
-#### Worg
-|||
---- | ---
-**Attributes:** | Commando 6, Hacker 6, Witch 0 
-**HP:** | 25
-**Mana:** | 0
-**Defense:** | 10 (+2 for thick fur)
-**Attacks:** | Bite (uses Commando attribute) 1d6+3 damage
-**Notes:** | can be trained as a mount
-
-\* The exploding die rule does not apply
-
-### Magical creatures and the undead
-
-#### Drake
-|||
---- | ---
-**Attributes:** | Commando 8, Hacker 6, Witch 2 
-**HP:** | 35
-**Mana:** | 4
-**Defense:** | 11 (+4 for scales)
-**Attacks:** | Bite (uses Commando attribute) 1d6+3 damage, 2x claws (use Commando attribute) 1d6+2 damage
-**Notes:** | can be trained as a mount
-
-#### Fire Drake
-|||
---- | ---
-**Attributes:** | Commando 8, Hacker 6, Witch 2 
-**HP:** | 38
-**Mana:** | 4
-**Defense:** | 11 (+4 for scales)
-**Attacks:** | Bite (uses Commando attribute) 1d6+1 damage, 2x claws (use Commando attribute) 1d6 damage, flame breath (uses Hacker attribute) 2d6
-**Notes:** | can be trained as a mount
-
-#### Elemental, Earth
-|||
---- | ---
-**Attributes:** | Commando 10, Hacker 2, Witch 0 
-**HP:** | 40
-**Mana:** | 0
-**Defense:** | 10
-**Attacks:** | 2x stone fist (uses Commando attribute) 2d6+2
-
-#### Golem, war
-|||
---- | ---
-**Attributes:** | Commando 10, Hacker 0, Witch 3 
-**HP:** | 20
-**Mana:** | 0
-**Defense:** | 9 (+5 armor plating)
-**Attacks:** | steel fist (uses Commando attribute) 2d6 or can use normal weapons
-**Notes:** | The war golem has all the weapon skills he needs to use the weapons he's equipped with.
-
-#### Golem, work
-|||
---- | ---
-**Attributes:** | Commando 10, Hacker 0, Witch 2 
-**HP:** | 20
-**Mana:** | 0
-**Defense:** | 9 (+2 light armor plating)
-**Attacks:** | steel fist (uses Commando attribute) 2d6
-
-#### Skeleton
-|||
---- | ---
-**Attributes:** | Commando 3, Hacker 3, Witch 0 
-**HP:** | 9
-**Mana:** | 0
-**Defense:** | 7 (+1 for rusted armor)
-**Skeleton Commando Trappings:** | Rusted armor, broken shield, sword
-**Skeleton Archer Trappings:** | Rusted armor, bow with 10 arrows
-**Notes:** | Skeletons ignore half damage from all but blunt weapons and axes.
-
-#### Zombie
-|||
---- | ---
-**Attributes:** | Commando 6, Hacker 0, Witch 0 
-**HP:** | 12
-**Mana:** | 0
-**Defense:** | 7
-
-## Appendix 4: Character Creation Summary
+## Appendix 2: Character Creation Summary
 1.  Distribute 10 attribute levels among the three attributes Commando, Hacker, and Witch. No attribute may be higher than six.
 2.  Pick three skills
 3.  Pick one talent
 4.  (Optional : Choose a non-human race for your character and write down the racial talents on your character sheet)
-5.  Calculate HP, Fate, Mana and Defense
-    - HP = 6 + Commando
-    - Fate = 1x Hacker
+5.  Calculate Health, Luck, Mana and Defense
+    - Health = 6 + Commando
+    - Luck = 1x Hacker 
     - Mana = 2x Witch
     - Defense = (Commando + Hacker)/2 + 4
 6.  Purchase starting equipment for 200 SP.
 7.  Fill out character sheet.
-
