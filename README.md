@@ -1,26 +1,26 @@
-# Warrior, Rogue & Mage System Reference Document
+# Commando, Hacker & Witch System Reference Document
 ©2015 Michael Wolf. Some rights reserved.
 
 The following attribution must be provided in your text, wherever you put your own copyright, in the same size as your copyright text:
 
-This work is based on Warrior, Rogue & Mage (found at http://www.stargazergames.eu/), created by Michael Wolf, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
+This work is based on Commando, Hacker & Witch (found at http://www.stargazergames.eu/), created by Michael Wolf, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
 
-## What is Warrior, Rogue & Mage?
-WR&M is a simple, lightweight role playing game that allows a group of players and a game master (GM) to experience epic adventures in a fantasy world filled with conflict, monsters and wondrous magic.
+## What is Commando, Hacker & Witch?
+CH&W is a simple, lightweight role playing game that allows a group of players and a game master (GM) to experience epic adventures in a fantasy world filled with conflict, monsters and wondrous magic.
 
-Although WR&M uses the three archetypal roles of classic role playing games in its title, it doesn’t make use of classes. Players can freely create characters as they see fit without having to press them into the tight corset of character classes. Warrior, Rogue and Mage are actually the characters’ basic attributes, which measure their capabilities in combat, stealth and academics respectively.
+Although CH&W uses the three archetypal roles of classic role playing games in its title, it doesn’t make use of classes. Players can freely create characters as they see fit without having to press them into the tight corset of character classes. Commando, Hacker and Witch are actually the characters’ basic attributes, which measure their capabilities in combat, stealth and academics respectively.
 
 This book assumes you are familiar with tabletop RPGs. If you have no idea how a tabletop role playing game is supposed to work, ask your geek friends; they’ll probably know.
 
 ## Characters
-Each player has to create a character in order to play. The player character is his or her representation in the game world. The characters played by the game master are called non-player characters orNPCs. All characters in WR&M are described by their three basic attributes, skills, talents and various other values, which will be explained in detail in this chapter.
+Each player has to create a character in order to play. The player character is his or her representation in the game world. The characters played by the game master are called non-player characters orNPCs. All characters in CH&W are described by their three basic attributes, skills, talents and various other values, which will be explained in detail in this chapter.
 
-Each player has to create a character in order to play. The player character is his or her representation in the game world. The characters played by the game master are called non-player characters or NPCs. All characters in WR&M are described by their three basic attributes, skills, talents and various other values, which will be explained in detail in this chapter.
+Each player has to create a character in order to play. The player character is his or her representation in the game world. The characters played by the game master are called non-player characters or NPCs. All characters in CH&W are described by their three basic attributes, skills, talents and various other values, which will be explained in detail in this chapter.
 
 ### Attributes
-WR&M uses three basic attributes to describe a character: Warrior, Rogue and Mage. Each attribute is usually ranked from 0 to 6, but monsters and veteran characters may have higher values. If an attribute is ranked at 0 you can't use any related skills. And in the case of the Mage attribute you can't cast even the simplest spell.
+CH&W uses three basic attributes to describe a character: Commando, Hacker and Witch. Each attribute is usually ranked from 0 to 6, but monsters and veteran characters may have higher values. If an attribute is ranked at 0 you can't use any related skills. And in the case of the Witch attribute you can't cast even the simplest spell.
 
-A character with a high rank in Warrior is the born fighter: strong, tough,fearless. Characters with a low rank in this attribute lack these abilities. Someone with a high Rogue attribute is witty, stealthy and quick with his feet and mind. A highly ranked Mage attribute is a sign of intelligence, strength of will and mental discipline.
+A character with a high rank in Commando is the born fighter: strong, tough,fearless. Characters with a low rank in this attribute lack these abilities. Someone with a high Hacker attribute is witty, stealthy and quick with his feet and mind. A highly ranked Witch attribute is a sign of intelligence, strength of will and mental discipline.
 
 Each player character starts with 10 attribute levels that may be freely distributed between the three attributes. No attribute may start higher than 6 though. While highly specialized characters are possible, a well-rounded character with a few levels in each attribute probably works best for new players.
 
@@ -31,12 +31,12 @@ Each character is also further detailed by a couple of skills. Skills are abilit
 Talents give player characters special abilities that set them apart from mere commoners. You don't have to roll the dice in order to use talents. As soon as a character has acquired a new talent he gets access to a special ability. Some talents may be taken several times.
 
 ### Hitpoints, Fate and Mana
-Hitpoints are a measure of how many hits a character may sustain before going down. A character with 0 HP is considered dead or dying. Fate can be used to save one's life in certain situations, or take over some narrative control from the GM. Mana is the raw magical energy that is used by Mages to cast magic spells. Characters can't perform any magic when their Mana is depleted.
+Hitpoints are a measure of how many hits a character may sustain before going down. A character with 0 HP is considered dead or dying. Fate can be used to save one's life in certain situations, or take over some narrative control from the GM. Mana is the raw magical energy that is used by Witchs to cast magic spells. Characters can't perform any magic when their Mana is depleted.
 
-Each character starts with Hipoints equal to 6 plus his Warrior attribute, Fate equal to his Rogue attribute and Mana equal to two times his Mage attribute. You start with at least 1 Fate if your Rogue attribute is at level 0, though.
+Each character starts with Hipoints equal to 6 plus his Commando attribute, Fate equal to his Hacker attribute and Mana equal to two times his Witch attribute. You start with at least 1 Fate if your Hacker attribute is at level 0, though.
 
 ### Armor and Defense
-Each character has a Defense stat that is equal to 4 plus half the sum of his Warrior and Rogue attributes rounded down. Worn armor and shields grants a bonus to Defense but raise the Mana cost of spells by their Armor Penalty (AP).
+Each character has a Defense stat that is equal to 4 plus half the sum of his Commando and Hacker attributes rounded down. Worn armor and shields grants a bonus to Defense but raise the Mana cost of spells by their Armor Penalty (AP).
 
 ## Rules Mechanics
 ### Basic Task Resolution
@@ -63,7 +63,7 @@ If the task at hand is not actively opposed, the player has to beat a difficulty
 #### Opposed check
 When two characters are in direct competition, the opposed check method is used. The DL of the active character is determined by a roll made by the passive character. 
 
-Example: A thief wants to sneak past a guard unnoticed. The guard then rolls a d6 and adds his Mage attribute and the +2 bonus if he owns the Awareness skill to the result. This result then is the DL for the thief's attribute check.
+Example: A thief wants to sneak past a guard unnoticed. The guard then rolls a d6 and adds his Witch attribute and the +2 bonus if he owns the Awareness skill to the result. This result then is the DL for the thief's attribute check.
 
 Optional: Instead of rolling, you can just add 3 to the relevant attribute (and the skill bonus) to get the DL.
 
@@ -91,7 +91,7 @@ Combat turns are pretty short, so characters can only perform a few actions. Run
 ### Attack roll
 When a character tries to hit another character in close or ranged combat, his player has to roll the dice to determine if he has hit. Attack rolls work like any other attribute check but the DL is always the target's Defense stat plus any applicable modifiers. Attack rolls are subject to the "exploding die" rule if the character has the appropriate skill and that each additional success after the first adds +1 to the damage caused. Please refer to the Magic chapter for magic attacks.
 
-Example: A thief wants to backstab a guard with a dagger. The skill list determines that when using a dagger the Rogue attribute applies. The thief knows this skill, so he may also add the +2 modifier to his attack roll.
+Example: A thief wants to backstab a guard with a dagger. The skill list determines that when using a dagger the Hacker attribute applies. The thief knows this skill, so he may also add the +2 modifier to his attack roll.
 
 ### Damage and Healing
 After having scored a hit, you determine the damage caused. Damage is determined by the weapon used. See the weapon list for details. Please note that damage rolls are always subject to the "exploding die" rule. The victims hitpoints are reduced by a number of points equal to the damage caused. If the hitpoints drop to 0, the character is dead or dying. A character's HP may never drop below 0.
@@ -102,7 +102,7 @@ A character heals hitpoints equal to his highest attribute per day of rest. Only
 
 ## Magic
 ### Using Magic
-Characters with a Mage attribute of 1 or higher have access to spells. Spells can be found or bought. These spells must first be transferred to a character's personal spell book before they can be used. To cast a spell from the book, the character has to make a roll versus the DL or the spell. If successful, his mana pool is reduced by the amount listed for the spell.
+Characters with a Witch attribute of 1 or higher have access to spells. Spells can be found or bought. These spells must first be transferred to a character's personal spell book before they can be used. To cast a spell from the book, the character has to make a roll versus the DL or the spell. If successful, his mana pool is reduced by the amount listed for the spell.
 
 ### Magic implement
 A character who wants to focus on magic usually owns a magic implement. This may be a staff, gauntlet, ring, or a similar piece of equipment. Magic implements are used to store spells that the magic user can later cast without having to spend any mana from his personal pool. Magic implements have to be charged with mana before they can be used and that mana pool is then used to power spell cast from it. As long as it is powered it also grants a thaumaturgy bonus equal to its level. An implement can hold 10 mana per level of the item. Powering the implement is expensive though. For each mana stored in the implement, the caster has to spend two from his personal pool. Implements may be charged in multiple sessions.
@@ -110,10 +110,10 @@ A character who wants to focus on magic usually owns a magic implement. This may
 A character can only store spells he knows in a magic implement. The stored spell remains in the implement until replaced. A magic implement can store spells up to its level. A level 3 implement may store one 3rd circle spell, but it may also be used to store one 2nd circle and one 1st circle spell or three 1st circle spells.
 
 ### Mana regeneration
-A character gets back his full mana pool for a good night's sleep and receives mana equal to his Mage attribute for one hour of meditation. Magic potions may also regenerate mana.
+A character gets back his full mana pool for a good night's sleep and receives mana equal to his Witch attribute for one hour of meditation. Magic potions may also regenerate mana.
 
 ### Casting Spells
-In order to cast spells a character needs at least Mage level 1. The thaumaturgy skill is helpful, but not necessary, especially if the character wants to use only a few simple spells. The range of all spells is the line of sight if the spell description does not say otherwise.
+In order to cast spells a character needs at least Witch level 1. The thaumaturgy skill is helpful, but not necessary, especially if the character wants to use only a few simple spells. The range of all spells is the line of sight if the spell description does not say otherwise.
 
 Spells are divided into four circles. Spells of the 1st circle are the easiest and less powerful, while 4th circle spell are considerably more powerful and need more skill to be cast.
 
@@ -132,13 +132,13 @@ A spell caster may choose to burn additional mana to improve the spell's effects
 ### Sustaining spells
 Usually all spells have a certain duration or cause an instant effect. But there may be cases when a caster wants to sustain a spell over longer periods of time. If a spell can be sustained, it's listed in the spells description. In order to sustain a spell over longer period of time, the caster has to concentrate which penalizes all of his actions by a modifier of -1. The mana cost for sustaining the spell is listed with the spell's description. 
 
-### Variant: Warrior, Rogue, & Scholar
-Magic is very common in WR&M. Everyone with a Mage attribute value of 1 or higher can cast spells. If you want to run a more low-magic 
+### Variant: Commando, Hacker, & Scholar
+Magic is very common in CH&W. Everyone with a Witch attribute value of 1 or higher can cast spells. If you want to run a more low-magic 
 game, you can make the following changes:
 
-The Mage attribute is replaced by the Scholar attribute. All skills that used Mage before now use the Scholar attribute. This is a purely cosmetic change, so if this isn’t that important to you, you can of course stick to the Mage attribute.
+The Witch attribute is replaced by the Scholar attribute. All skills that used Witch before now use the Scholar attribute. This is a purely cosmetic change, so if this isn’t that important to you, you can of course stick to the Witch attribute.
 
-In order to cast spells a character needs to buy a new talent called “Spellcaster” which gives access to 1st circle spells. Spell casting works as usual, although you are restricted to basic spells when you start with a new character. All other talents that affect your magic abilities (like Blood Mage) need Spellcaster as a prerequisite now. When the character levels up, he can acquire “Advanced Spellcaster” which grants him access to the remaining spell circles.
+In order to cast spells a character needs to buy a new talent called “Spellcaster” which gives access to 1st circle spells. Spell casting works as usual, although you are restricted to basic spells when you start with a new character. All other talents that affect your magic abilities (like Blood Witch) need Spellcaster as a prerequisite now. When the character levels up, he can acquire “Advanced Spellcaster” which grants him access to the remaining spell circles.
 
 This optional rule allows low-magic campaigns. By disallowing the Spellcaster talent you can even play without any magic at all.
 
@@ -361,26 +361,26 @@ This simple whitewood stave can extend or retract on command, shrinking so as to
 
 The following section is for the Gamemaster only. If you are a player, please stop reading here.
 
-### Running Warrior, Rogue & Mage
-WR&M leaves a lot of room for interpretation in the rules. Not everything you can think of has been covered by the rules and in many cases GM fiat plays a major role. It shares this with a lot of early roleplaying games, which are now called "old school". But that aspect of the game allows it to be a perfect toolbox for players and GMs alike. If there's something missing from the game, you need for your campaign, just add it. If there's something that bothers you, change it or drop it completely. The possibilities are endless and the rules-lite nature of the game allows you to make the game your own without having to fear you break the whole game.
+### Running Commando, Hacker & Witch
+CH&W leaves a lot of room for interpretation in the rules. Not everything you can think of has been covered by the rules and in many cases GM fiat plays a major role. It shares this with a lot of early roleplaying games, which are now called "old school". But that aspect of the game allows it to be a perfect toolbox for players and GMs alike. If there's something missing from the game, you need for your campaign, just add it. If there's something that bothers you, change it or drop it completely. The possibilities are endless and the rules-lite nature of the game allows you to make the game your own without having to fear you break the whole game.
 
 ### Start slow but then go epic
-Especially if you haven't run WR&M before, you should start things slow. Don't throw your players into an epic adventure at once but try to get a feel for the rules and the lethality of combat first. There's nothing more frustrating for your gamers than to have to face a total party kill in the first session.
+Especially if you haven't run CH&W before, you should start things slow. Don't throw your players into an epic adventure at once but try to get a feel for the rules and the lethality of combat first. There's nothing more frustrating for your gamers than to have to face a total party kill in the first session.
 
-But after you're more comfortable with the game you should turn things up a notch. WR&M is supposed to be epic fantasy. The setting included in the book hints at powerful artifacts, lost technologies and ruined cities. This is probably what the players expect when they sit down at the gaming table, so the GM should deliver.
+But after you're more comfortable with the game you should turn things up a notch. CH&W is supposed to be epic fantasy. The setting included in the book hints at powerful artifacts, lost technologies and ruined cities. This is probably what the players expect when they sit down at the gaming table, so the GM should deliver.
 
 ### GM rulings instead of rules
 In most cases it's much faster and better for the flow of the game if the GM makes rulings when there's a rule discussion. Nothing destroys the mood of any game more than a lengthy discussion about some rules and the interpretation of what is printed in the book. To avoid that, the GM always has the last word in these cases. If the issue at hand still bothers you after the game, just look it up and make up your mind. But during the game you should just decide something instead of making a fuss about it.
 
 ### Make it your own
-I can't stress this enough: make WR&M your own. GMs and players are encouraged to bring their own ideas to the table. Add new lands, create new monster, change the rules, write up your own spells. Whatever suits your fancy, do it. A lot of creativity went into the production of the game, but it definitely shouldn't end there! This book contains several optional rules that you can use, but you can of course add your own house rules as well. And if you think there's something critical or just very cool missing from the game, let us know!
+I can't stress this enough: make CH&W your own. GMs and players are encouraged to bring their own ideas to the table. Add new lands, create new monster, change the rules, write up your own spells. Whatever suits your fancy, do it. A lot of creativity went into the production of the game, but it definitely shouldn't end there! This book contains several optional rules that you can use, but you can of course add your own house rules as well. And if you think there's something critical or just very cool missing from the game, let us know!
 
 ### Setting the mood with music
 When it comes to setting the mood nothing is better than playing some epic music in the background. Some people prefer movie and computer game soundtracks, some people prefer heavy metal tunes. The important part is that you and your players are comfortable with the music and that it enhances the mood of the game. Playing music from a horror movie in the background is a great way to improve the immersion if you're running a horror adventure.
 
 
 ### Character advancement
-Characters in WR&M don’t have levels or need to amass experience points to improve their abilities. The GM decides when he thinks the characters are ready to advance. Usually this happens at the end of a successful adventure. If you want to let the characters advance faster, then you can allow them to advance after each session. Whenever the GM allows the players to advance they may do the following:
+Characters in CH&W don’t have levels or need to amass experience points to improve their abilities. The GM decides when he thinks the characters are ready to advance. Usually this happens at the end of a successful adventure. If you want to let the characters advance faster, then you can allow them to advance after each session. Whenever the GM allows the players to advance they may do the following:
 
 - Raise one attribute by one.
 - Add 1d6 to either HP or Mana
@@ -398,38 +398,38 @@ Hazard | Damage
 --- | ---
 Fall | 1d6 per 3 yards of fall
 Suffocation/drowning | 1d6 per round
-Mild poison | 1d3 initial damage, 1 dam./rnd. until successful Warrior check vs. DL 7.
-Lethal poison | 1d6 initial damage, 2 dam./rnd. until successful Warrior check vs. DL 11.
+Mild poison | 1d3 initial damage, 1 dam./rnd. until successful Commando check vs. DL 7.
+Lethal poison | 1d6 initial damage, 2 dam./rnd. until successful Commando check vs. DL 11.
 Fire | 1d6 per round exposed to the flames
 
 ## Appendix 1: Skills & Talents
-The table below lists all available skills for WR&M. Of course GMs are free to add more skills, if necessary.
+The table below lists all available skills for CH&W. Of course GMs are free to add more skills, if necessary.
 
 Skill | Attribute | Description
 --- | --- | ---
-Athletics | Warrior | Training in swimming, running and jumping.
-Axes | Warrior | Training with axes and polearms
-Blunt Weapons | Warrior | Training in all blunt weapons incl. maces and staves.
-Riding | Warrior | Training in riding on horses and other common mounts.
-Spears | Warrior | Training with spears and lances.
-Swords | Warrior | Training with all kinds of swords, including two-handed ones.
-Unarmed | Warrior | Training with unarmed fighting.
-Acrobatics | Rogue | Training in activities like dancing, contortion, climbing, tightrope walking, tumbling.
-Bows | Rogue | Skill for using bows and crossbows
-Daggers | Rogue | Training with daggers and knives.
-Firearms | Rogue | Training in the usage of exotic firearms.
-Thievery | Rogue | Training in the roguish arts like picking locks and picking pockets.
-Thrown Weapons | Rogue | Proficiency with thrown weapons like shuriken.
-Alchemy | Mage | Training in creating potions and salves.
-Awareness | Mage | This skill is a measure of a characters awareness of his surroundings.
-Herbalism | Mage | Knowledge of plants, herbs and their medical uses. Can be used to heal critically wounded characters.
-Hermeticism | Mage | Skilled with arcane spells and rituals.
-Lore | Mage | General knowledge.
-Thaumaturgy | Mage | Proficiency with divine spells.
+Athletics | Commando | Training in swimming, running and jumping.
+Axes | Commando | Training with axes and polearms
+Blunt Weapons | Commando | Training in all blunt weapons incl. maces and staves.
+Riding | Commando | Training in riding on horses and other common mounts.
+Spears | Commando | Training with spears and lances.
+Swords | Commando | Training with all kinds of swords, including two-handed ones.
+Unarmed | Commando | Training with unarmed fighting.
+Acrobatics | Hacker | Training in activities like dancing, contortion, climbing, tightrope walking, tumbling.
+Bows | Hacker | Skill for using bows and crossbows
+Daggers | Hacker | Training with daggers and knives.
+Firearms | Hacker | Training in the usage of exotic firearms.
+Thievery | Hacker | Training in the roguish arts like picking locks and picking pockets.
+Thrown Weapons | Hacker | Proficiency with thrown weapons like shuriken.
+Alchemy | Witch | Training in creating potions and salves.
+Awareness | Witch | This skill is a measure of a characters awareness of his surroundings.
+Herbalism | Witch | Knowledge of plants, herbs and their medical uses. Can be used to heal critically wounded characters.
+Hermeticism | Witch | Skilled with arcane spells and rituals.
+Lore | Witch | General knowledge.
+Thaumaturgy | Witch | Proficiency with divine spells.
 
 ### Talents list
 
-The following list contains all talents available for characters in WR&M. GMs are free to add more if needed.
+The following list contains all talents available for characters in CH&W. GMs are free to add more if needed.
 
 #### Armored caster
 You may reduce the armor penalty by 2. May be taken more than once.
@@ -441,7 +441,7 @@ You may substitute mana with hitpoints when casting spells.
 You have to select a cause. You get a +2 bonus on attack and damage rolls against enemies of that cause. May be taken more than once.
 
 #### Channeller
-You can add your Mage attribute level to your magic attack damage once per combat
+You can add your Witch attribute level to your magic attack damage once per combat
 
 #### Craftsman
 You are trained in a craft like blacksmithing, carpentry or bowmaking. May be taken more than once.
@@ -465,10 +465,10 @@ You are a talented leader any may command troops.
 You may reroll any roll once per scene (or combat)
 
 #### Massive attack
-You can add your Warrior attribute level to your melee attack damage once per combat
+You can add your Commando attribute level to your melee attack damage once per combat
 
 #### Precise shot
-You can add your Rogue attribute level to your ranged attack damage once per combat
+You can add your Hacker attribute level to your ranged attack damage once per combat
 
 #### Sailor
 You are trained in steering a boat or sailing ship and don't get any penalties for fighting on a sea vessel.
@@ -490,17 +490,17 @@ At the beginning of character creation the player chooses the race of his charac
 ##### Elf
 Elves are usually looking like slender, beautiful humans with slightly elongated limbs and pointed ears. Elves have less body hair than humans. Elves have an exceptional talent for magic. Elves live much longer than humans but mature about as fast.
 
-Racial talents: Exceptional Attribute (Mage), Sixth Sense*, Weak
+Racial talents: Exceptional Attribute (Witch), Sixth Sense*, Weak
 
 ##### Dwarf
 Dwarves are shorter and stockier than humans. Male dwarves usually sport thick and long beards. Dwarves are very strong and tough for their small size and are known for their fighting prowess. Dwarves live longer than humans but not as long as the Elves.
 
-Racial talents: Exceptional Attribute (Warrior), Craftsman* (craft of player's choice), No Talent for Magic
+Racial talents: Exceptional Attribute (Commando), Craftsman* (craft of player's choice), No Talent for Magic
 
 ##### Halflings
 Halflings are even shorter than Dwarves and are sometimes even mistaken for human children. They usually live peaceful lives far away from the bustling towns of the humans. But if one of the members of that race goes on adventuring their exceptional talent for thievery shows.
 
-Racial talents: Exceptional Attribute (Rogue), Hunter*, Weak
+Racial talents: Exceptional Attribute (Hacker), Hunter*, Weak
 
 ##### Lizardmen
 Lizardmen are an intelligent species that evolved from lizards. Instead of their ancestors they are not cold-blooded anymore, but they still prefer hot and dry areas. They resemble a humanoid lizard with scales instead of skin which also doubles as armor. Lizardmen are known for there lack of strong emotions and their keen logic.
@@ -516,7 +516,7 @@ Racial talents: Tinkerer, Lucky Devil*, Weak
 ##### Orcs
 Orcs are slightly larger than humans, green skinned and are exceptionally strong. They can be savage warriors but they have a strong sense of honor. They usually look down on the smaller races like Goblins and Halflings. Orcish adventurers are a rare sight to behold, but often they are accompanied by one of their tame black wolves.
 
-Racial talents: Berserker, Exceptional Attribute (Warrior), Outcast
+Racial talents: Berserker, Exceptional Attribute (Commando), Outcast
 
 \* See Appendix 1 for details
 
@@ -524,7 +524,7 @@ Racial talents: Berserker, Exceptional Attribute (Warrior), Outcast
 A member of a non-human race gets a number of racial talents which help him to set apart from ordinary humans. Some of these talents are actually drawbacks meant to balance out the advantages that certain races get. GMs are encouraged to invent their own racial talents. The talents given in this chapter are meant as a source for inspiration. With the GMs approval players of other races may pick some of these talents as well.
 
 ##### Berserker
-This talent allows a character to go berserk during combat. This adds +2 to the Warrior attribute and all the damage caused. Temporarily the berserker ignores all damage effects. You still have to note down all the damage taken though, since the damage takes effect as soon as the berserk wears off. The Mage attribute is reduced to 0 during the duration of that effect and casting of magic is impossible. The character has to attack his nearest enemy only and is only allowed to fight in close quarters. When all the enemies are on the ground the berserker has to make an unmodified Easy (5) Mage check.
+This talent allows a character to go berserk during combat. This adds +2 to the Commando attribute and all the damage caused. Temporarily the berserker ignores all damage effects. You still have to note down all the damage taken though, since the damage takes effect as soon as the berserk wears off. The Witch attribute is reduced to 0 during the duration of that effect and casting of magic is impossible. The character has to attack his nearest enemy only and is only allowed to fight in close quarters. When all the enemies are on the ground the berserker has to make an unmodified Easy (5) Witch check.
 
 If the check is successful, the effect ends and the character drop unconscious to the ground. If he has taken enough damage to be reduced to 0 or less HP he's dead or dying. If his HPs are still 1 or more, he's knocked out for 2d6 minutes before he awakes with a headache.
 
@@ -543,7 +543,7 @@ A character with this talent has a hard time grasping the concepts of magic or h
 A character with that talent has a knack for all things technical. He gets a +2 bonus on all checks related to repairing, dismantling or using technical equipment like mechanical traps, firearms, war golems, clockwork etc.
 
 ##### Weak
-A character with this talent is more frail than the common man. He starts play with 3 + the Warrior Attribute and when levelling up he only gets 1d6-2 hitpoints (minimum is 1 hp though).
+A character with this talent is more frail than the common man. He starts play with 3 + the Commando Attribute and when levelling up he only gets 1d6-2 hitpoints (minimum is 1 hp though).
 
 ##### Outcast
 A character with this racial talent is considered an outcast in most societies. Every test related to social interaction with a member of a different race is modified by 3.
@@ -580,28 +580,28 @@ Circle | Time | Max. Participants
 3rd circle | 15 min | 9
 4th circle | 1 hour | 12
 
-When more than one person performs the ritual they can pool their mana. If one or more participants have the Blood Mage talent they can use it to convert any participants HPs to Mana, too. This is often used in the form of ritual sacrifices where a Blood Mage performs a ritual and kills one of the (often involuntarily) participants to release his mana into the spell. The mana gained in such a way is doubled.
+When more than one person performs the ritual they can pool their mana. If one or more participants have the Blood Witch talent they can use it to convert any participants HPs to Mana, too. This is often used in the form of ritual sacrifices where a Blood Witch performs a ritual and kills one of the (often involuntarily) participants to release his mana into the spell. The mana gained in such a way is doubled.
 
 ## Appendix 3: Bestiary
-In this Bestiary you’ll find average stats for various non-player characters and common creatures. Please note that the Defense listed is always the unarmored Defense. Bonuses granted by armor or shields are listed in parenthesis. Optional : If you need non-human NPCs, like an Orcish Bandit, or an Elfish Mage, just add the racial talents listed in Appendix 2.
+In this Bestiary you’ll find average stats for various non-player characters and common creatures. Please note that the Defense listed is always the unarmored Defense. Bonuses granted by armor or shields are listed in parenthesis. Optional : If you need non-human NPCs, like an Orcish Bandit, or an Elfish Witch, just add the racial talents listed in Appendix 2.
 
 ### Common NPCs
-#### Apprentice Mage
+#### Apprentice Witch
 |||
 --- | ---
-**Attributes:** | Warrior 2, Rogue 3, Mage 5
+**Attributes:** | Commando 2, Hacker 3, Witch 5
 **HP:** | 8
 **Mana:** | 10
 **Defense:** | 6
 **Skills:** | Alchemy, Blunt, Thaumaturgy
 **Talents:** | Familiar (Raven)
 **Spells:** | Frostburn, Healing Hand
-**Trappings:** | Mage robes, Staff, pouch with 2d6 silver pieces
+**Trappings:** | Witch robes, Staff, pouch with 2d6 silver pieces
 
 #### Bandit
 |||
 --- | ---
-**Attributes:** | Warrior 5, Rogue 3, Mage 2 
+**Attributes:** | Commando 5, Hacker 3, Witch 2 
 **HP:** | 11
 **Mana:** | 4
 **Defense:** | 10 (+2 for leather armor)
@@ -612,7 +612,7 @@ In this Bestiary you’ll find average stats for various non-player characters a
 #### Commoner
 |||
 --- | ---
-**Attributes:** | Warrior 2, Rogue 2, Mage 1 
+**Attributes:** | Commando 2, Hacker 2, Witch 1 
 **HP:** | 8
 **Mana:** | 2
 **Defense:** | 6
@@ -623,7 +623,7 @@ In this Bestiary you’ll find average stats for various non-player characters a
 #### Cutthroat
 |||
 --- | ---
-**Attributes:** | Warrior 3, Rogue 5, Mage 2 
+**Attributes:** | Commando 3, Hacker 5, Witch 2 
 **HP:** | 9
 **Mana:** | 4
 **Defense:** | 10
@@ -631,23 +631,23 @@ In this Bestiary you’ll find average stats for various non-player characters a
 **Talents:** | Dual-wield
 **Trappings:** | Dark clothes, hooded cloak, dagger, 1d6 throwing stars
 
-#### Journeyman Mage
+#### Journeyman Witch
 |||
 --- | ---
-**Attributes:** | Warrior 3, Rogue 3, Mage 5
+**Attributes:** | Commando 3, Hacker 3, Witch 5
 **HP:** | 12
 **Mana:** | 10
 **Defense:** | 6
 **Skills:** | Alchemy, Blunt, Lore, Thaumaturgy
 **Talents:** | Familiar (Raven), Channeller
 **Spells:** | Frostburn, Healing Hand, Lightning Bolt
-**Trappings:** | Mage robes, Staff, pouch with 2d6 silver pieces
+**Trappings:** | Witch robes, Staff, pouch with 2d6 silver pieces
 
 
 #### Knight
 |||
 --- | ---
-**Attributes:** | Warrior 6, Rogue 2, Mage 3 
+**Attributes:** | Commando 6, Hacker 2, Witch 3 
 **HP:** | 16
 **Mana:** | 6
 **Defense:** | 10 (+6 for light plate armor, +1 for small shield)
@@ -658,7 +658,7 @@ In this Bestiary you’ll find average stats for various non-player characters a
 #### Priest
 |||
 --- | ---
-**Attributes:** | Warrior 3, Rogue 3, Mage 5
+**Attributes:** | Commando 3, Hacker 3, Witch 5
 **HP:** | 12
 **Mana:** | 10
 **Defense:** | 6
@@ -670,7 +670,7 @@ In this Bestiary you’ll find average stats for various non-player characters a
 #### Soldier
 |||
 --- | ---
-**Attributes:** | Warrior 5, Rogue 3, Mage 2 
+**Attributes:** | Commando 5, Hacker 3, Witch 2 
 **HP:** | 10
 **Mana:** | 4
 **Defense:** | 10 (+3 for scale armor, +2 for large shield)
@@ -681,7 +681,7 @@ In this Bestiary you’ll find average stats for various non-player characters a
 #### Town Guard
 |||
 --- | ---
-**Attributes:** | Warrior 5, Rogue 3, Mage 2 
+**Attributes:** | Commando 5, Hacker 3, Witch 2 
 **HP:** | 11
 **Mana:** | 4
 **Defense:** | 10 (+3 for scale armor)
@@ -695,63 +695,63 @@ Animal have slightly different stat blocks from humans. Instead of skills, talen
 #### Bear
 |||
 --- | ---
-**Attributes:** | Warrior 8, Rogue 4, Mage 0 
+**Attributes:** | Commando 8, Hacker 4, Witch 0 
 **HP:** | 20
 **Mana:** | 0
 **Defense:** | 10 (+2 for thick fur)
-**Attacks:** | 2x paws (uses Warrior attribute) 1d6+4 damage, Bite (uses Warrior attribute) 2d6 
+**Attacks:** | 2x paws (uses Commando attribute) 1d6+4 damage, Bite (uses Commando attribute) 2d6 
 
 #### Bird of prey
 |||
 --- | ---
-**Attributes:** | Warrior 2, Rogue 6, Mage 0 
+**Attributes:** | Commando 2, Hacker 6, Witch 0 
 **HP:** | 4
 **Mana:** | 0
 **Defense:** | 9 (+3 while flying)
-**Attacks:** | Beak* (uses Rogue attribute) 1d6/2 damage
+**Attacks:** | Beak* (uses Hacker attribute) 1d6/2 damage
 **Notes:** | These stats can also be used for ravens and other birds of comparable size
 
 #### Cat, large
 |||
 --- | ---
-**Attributes:** | Warrior 4, Rogue 8, Mage 0 
+**Attributes:** | Commando 4, Hacker 8, Witch 0 
 **HP:** | 12
 **Mana:** | 0
 **Defense:** | 8
-**Attacks:** | 2x Claws (uses Rogue attribute) 1d6+2 damage, Bite (uses Warrior attribute) 1d6+3 
+**Attacks:** | 2x Claws (uses Hacker attribute) 1d6+2 damage, Bite (uses Commando attribute) 1d6+3 
 
 #### Cat, small
 |||
 --- | ---
-**Attributes:** | Warrior 2, Rogue 8, Mage 0 
+**Attributes:** | Commando 2, Hacker 8, Witch 0 
 **HP:** | 5
 **Mana:** | 0
 **Defense:** | 8
-**Attacks:** | 2x Claws* (uses Rogue attribute) 1d6/2 damage
+**Attacks:** | 2x Claws* (uses Hacker attribute) 1d6/2 damage
 
 #### Dog
 |||
 --- | ---
-**Attributes:** | Warrior 4, Rogue 2, Mage 0 
+**Attributes:** | Commando 4, Hacker 2, Witch 0 
 **HP:** | 6
 **Mana:** | 0
 **Defense:** | 7
-**Attacks:** | Bite* (uses Warrior attribute) 1d6 damage
+**Attacks:** | Bite* (uses Commando attribute) 1d6 damage
 **Notes:** | can be trained as a mount for small races
 
 #### Fire beetle
 |||
 --- | ---
-**Attributes:** | Warrior 4, Rogue 4, Mage 0 
+**Attributes:** | Commando 4, Hacker 4, Witch 0 
 **HP:** | 8
 **Mana:** | 0
 **Defense:** | 8 (+3 for chitin armor)
-**Attacks:** | Fire spray (uses Rogue attribute) 1d6 damage, range 10 yards
+**Attacks:** | Fire spray (uses Hacker attribute) 1d6 damage, range 10 yards
 
 #### Giant beetle
 |||
 --- | ---
-**Attributes:** | Warrior 4, Rogue 4, Mage 0 
+**Attributes:** | Commando 4, Hacker 4, Witch 0 
 **HP:** | 14
 **Mana:** | 0
 **Defense:** | 8 (+3 for chitin armor)
@@ -760,67 +760,67 @@ Animal have slightly different stat blocks from humans. Instead of skills, talen
 #### Giant leech
 |||
 --- | ---
-**Attributes:** | Warrior 3, Rogue 6, Mage 0 
+**Attributes:** | Commando 3, Hacker 6, Witch 0 
 **HP:** | 15
 **Mana:** | 0
 **Defense:** | 8
-**Attacks:** | Venomous bite (uses Rogue attribute) 1d6-2 damage (mild poison)
+**Attacks:** | Venomous bite (uses Hacker attribute) 1d6-2 damage (mild poison)
 
 #### Giant rat
 |||
 --- | ---
-**Attributes:** | Warrior 4, Rogue 2, Mage 0 
+**Attributes:** | Commando 4, Hacker 2, Witch 0 
 **HP:** | 12
 **Mana:** | 0
 **Defense:** | 7
-**Attacks:** | Bite (uses Warrior attribute) 1d6 damage
+**Attacks:** | Bite (uses Commando attribute) 1d6 damage
 
 #### Giant spider
 |||
 --- | ---
-**Attributes:** | Warrior 6, Rogue 6, Mage 0 
+**Attributes:** | Commando 6, Hacker 6, Witch 0 
 **HP:** | 24
 **Mana:** | 0
 **Defense:** | 8 (+4 for chitin armor)
-**Attacks:** | Venomous bite (uses Rogue attribute) 1d6+2 damage (mild poison)
+**Attacks:** | Venomous bite (uses Hacker attribute) 1d6+2 damage (mild poison)
 **Notes:** | can be trained as a mount for small races
 
 #### Horse
 |||
 --- | ---
-**Attributes:** | Warrior 5, Rogue 5, Mage 0 
+**Attributes:** | Commando 5, Hacker 5, Witch 0 
 **HP:** | 12
 **Mana:** | 0
 **Defense:** | 9
-**Attacks:** | Bite* (uses Warrior attribute) 1d6 damage
-**Notes:** | Warhorses have 1d6+4 additional hitpoints and have one trample attack (which uses Warrior attribute) that causes 2d6 damage
+**Attacks:** | Bite* (uses Commando attribute) 1d6 damage
+**Notes:** | Warhorses have 1d6+4 additional hitpoints and have one trample attack (which uses Commando attribute) that causes 2d6 damage
 
 #### Venomous snake
 |||
 --- | ---
-**Attributes:** | Warrior 2, Rogue 6, Mage 0 
+**Attributes:** | Commando 2, Hacker 6, Witch 0 
 **HP:** | 6
 **Mana:** | 0
 **Defense:** | 8
-**Attacks:** | Venomous bite* (uses Rogue attribute) 1d6/2 damage + poison (mild or lethal, see Chapter 6)
+**Attacks:** | Venomous bite* (uses Hacker attribute) 1d6/2 damage + poison (mild or lethal, see Chapter 6)
 
 #### Wolf
 |||
 --- | ---
-**Attributes:** | Warrior 4, Rogue 4, Mage 0 
+**Attributes:** | Commando 4, Hacker 4, Witch 0 
 **HP:** | 8
 **Mana:** | 0
 **Defense:** | 8
-**Attacks:** | Bite (uses Warrior attribute) 1d6 damage
+**Attacks:** | Bite (uses Commando attribute) 1d6 damage
 
 #### Worg
 |||
 --- | ---
-**Attributes:** | Warrior 6, Rogue 6, Mage 0 
+**Attributes:** | Commando 6, Hacker 6, Witch 0 
 **HP:** | 25
 **Mana:** | 0
 **Defense:** | 10 (+2 for thick fur)
-**Attacks:** | Bite (uses Warrior attribute) 1d6+3 damage
+**Attacks:** | Bite (uses Commando attribute) 1d6+3 damage
 **Notes:** | can be trained as a mount
 
 \* The exploding die rule does not apply
@@ -830,80 +830,80 @@ Animal have slightly different stat blocks from humans. Instead of skills, talen
 #### Drake
 |||
 --- | ---
-**Attributes:** | Warrior 8, Rogue 6, Mage 2 
+**Attributes:** | Commando 8, Hacker 6, Witch 2 
 **HP:** | 35
 **Mana:** | 4
 **Defense:** | 11 (+4 for scales)
-**Attacks:** | Bite (uses Warrior attribute) 1d6+3 damage, 2x claws (use Warrior attribute) 1d6+2 damage
+**Attacks:** | Bite (uses Commando attribute) 1d6+3 damage, 2x claws (use Commando attribute) 1d6+2 damage
 **Notes:** | can be trained as a mount
 
 #### Fire Drake
 |||
 --- | ---
-**Attributes:** | Warrior 8, Rogue 6, Mage 2 
+**Attributes:** | Commando 8, Hacker 6, Witch 2 
 **HP:** | 38
 **Mana:** | 4
 **Defense:** | 11 (+4 for scales)
-**Attacks:** | Bite (uses Warrior attribute) 1d6+1 damage, 2x claws (use Warrior attribute) 1d6 damage, flame breath (uses Rogue attribute) 2d6
+**Attacks:** | Bite (uses Commando attribute) 1d6+1 damage, 2x claws (use Commando attribute) 1d6 damage, flame breath (uses Hacker attribute) 2d6
 **Notes:** | can be trained as a mount
 
 #### Elemental, Earth
 |||
 --- | ---
-**Attributes:** | Warrior 10, Rogue 2, Mage 0 
+**Attributes:** | Commando 10, Hacker 2, Witch 0 
 **HP:** | 40
 **Mana:** | 0
 **Defense:** | 10
-**Attacks:** | 2x stone fist (uses Warrior attribute) 2d6+2
+**Attacks:** | 2x stone fist (uses Commando attribute) 2d6+2
 
 #### Golem, war
 |||
 --- | ---
-**Attributes:** | Warrior 10, Rogue 0, Mage 3 
+**Attributes:** | Commando 10, Hacker 0, Witch 3 
 **HP:** | 20
 **Mana:** | 0
 **Defense:** | 9 (+5 armor plating)
-**Attacks:** | steel fist (uses Warrior attribute) 2d6 or can use normal weapons
+**Attacks:** | steel fist (uses Commando attribute) 2d6 or can use normal weapons
 **Notes:** | The war golem has all the weapon skills he needs to use the weapons he's equipped with.
 
 #### Golem, work
 |||
 --- | ---
-**Attributes:** | Warrior 10, Rogue 0, Mage 2 
+**Attributes:** | Commando 10, Hacker 0, Witch 2 
 **HP:** | 20
 **Mana:** | 0
 **Defense:** | 9 (+2 light armor plating)
-**Attacks:** | steel fist (uses Warrior attribute) 2d6
+**Attacks:** | steel fist (uses Commando attribute) 2d6
 
 #### Skeleton
 |||
 --- | ---
-**Attributes:** | Warrior 3, Rogue 3, Mage 0 
+**Attributes:** | Commando 3, Hacker 3, Witch 0 
 **HP:** | 9
 **Mana:** | 0
 **Defense:** | 7 (+1 for rusted armor)
-**Skeleton Warrior Trappings:** | Rusted armor, broken shield, sword
+**Skeleton Commando Trappings:** | Rusted armor, broken shield, sword
 **Skeleton Archer Trappings:** | Rusted armor, bow with 10 arrows
 **Notes:** | Skeletons ignore half damage from all but blunt weapons and axes.
 
 #### Zombie
 |||
 --- | ---
-**Attributes:** | Warrior 6, Rogue 0, Mage 0 
+**Attributes:** | Commando 6, Hacker 0, Witch 0 
 **HP:** | 12
 **Mana:** | 0
 **Defense:** | 7
 
 ## Appendix 4: Character Creation Summary
-1.  Distribute 10 attribute levels among the three attributes Warrior, Rogue, and Mage. No attribute may be higher than six.
+1.  Distribute 10 attribute levels among the three attributes Commando, Hacker, and Witch. No attribute may be higher than six.
 2.  Pick three skills
 3.  Pick one talent
 4.  (Optional : Choose a non-human race for your character and write down the racial talents on your character sheet)
 5.  Calculate HP, Fate, Mana and Defense
-    - HP = 6 + Warrior
-    - Fate = 1x Rogue
-    - Mana = 2x Mage
-    - Defense = (Warrior + Rogue)/2 + 4
+    - HP = 6 + Commando
+    - Fate = 1x Hacker
+    - Mana = 2x Witch
+    - Defense = (Commando + Hacker)/2 + 4
 6.  Purchase starting equipment for 200 SP.
 7.  Fill out character sheet.
 
