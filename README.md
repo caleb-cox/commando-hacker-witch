@@ -1,12 +1,8 @@
 # Commando, Hacker & Witch System Reference Document
-©2015 Michael Wolf. Some rights reserved.
-
-The following attribution must be provided in your text, wherever you put your own copyright, in the same size as your copyright text:
-
-This work is based on Commando, Hacker & Witch (found at http://www.stargazergames.eu/), created by Michael Wolf, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
+This work is based on Warrior, Rogue & Mage (found at http://www.stargazergames.eu/), created by Michael Wolf, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
 
 ## What is Commando, Hacker & Witch?
-CH&W is a simple, lightweight role playing game that allows a group of players and a game master (GM) to experience epic adventures in a fantasy world filled with conflict, monsters and wondrous magic.
+CH&W is a simple, lightweight role playing game that allows a group of players and a game master (GM) to experience epic adventures in a retro-cyberpunk world of hackers, machine guns, and (inexplicably) magic.
 
 Although CH&W uses the three archetypal roles of classic role playing games in its title, it doesn’t make use of classes. Players can freely create characters as they see fit without having to press them into the tight corset of character classes. Commando, Hacker and Witch are actually the characters’ basic attributes, which measure their capabilities in combat, stealth and academics respectively.
 
@@ -20,85 +16,66 @@ Each player has to create a character in order to play. The player character is 
 ### Attributes
 CH&W uses three basic attributes to describe a character: Commando, Hacker and Witch. Each attribute is usually ranked from 0 to 6, but monsters and veteran characters may have higher values. If an attribute is ranked at 0 you can't use any related skills. And in the case of the Witch attribute you can't cast even the simplest spell.
 
-A character with a high rank in Commando is the born fighter: strong, tough,fearless. Characters with a low rank in this attribute lack these abilities. Someone with a high Hacker attribute is witty, stealthy and quick with his feet and mind. A highly ranked Witch attribute is a sign of intelligence, strength of will and mental discipline.
+- A character with a high rank in **Commando** is the born fighter: strong, tough, fearless.
+- Someone with a high **Hacker** attribute is witty, stealthy and quick with their feet and mind. 
+- A highly ranked **Witch** attribute is a sign of wisdom, strength of will and occult knowledge.
 
 Each player character starts with 10 attribute levels that may be freely distributed between the three attributes. No attribute may start higher than 6 though. While highly specialized characters are possible, a well-rounded character with a few levels in each attribute probably works best for new players.
 
-### Skills
-Each character is also further detailed by a couple of skills. Skills are abilities a character has learned over the years like Riding or Thievery. Skills are not ranked like attributes though. You either have learned a skill, or you don't. Each character starts with three skills of the players choice. Please note that you can't choose a skill if the relevant attribute is ranked at level 0!
-
-### Talents
-Talents give player characters special abilities that set them apart from mere commoners. You don't have to roll the dice in order to use talents. As soon as a character has acquired a new talent he gets access to a special ability. Some talents may be taken several times.
-
-### Hitpoints, Luck and Mana
-Hitpoints are a measure of how many hits a character may sustain before going down. A character with 0 Health is considered dead or dying. Luck can be used to save one's life in certain situations, or take over some narrative control from the GM. Mana is the raw magical energy that is used by Witchs to cast magic spells. Characters can't perform any magic when their Mana is depleted.
+### Health, Luck and Mana
+Health are a measure of how many hits a character may sustain before going down. A character with 0 health is considered dead or dying. Luck can be used to save one's life in certain situations, or take over some narrative control from the GM. Mana is the raw magical energy that is used by Witchs to cast magic spells. Characters can't perform any magic when their Mana is depleted.
 
 Each character starts with Hipoints equal to 6 plus his Commando attribute, Luck equal to his Hacker attribute and Mana equal to two times his Witch attribute. You start with at least 1 Luck if your Hacker attribute is at level 0, though.
 
 ### Armor and Defense
 Each character has a Defense stat that is equal to 4 plus half the sum of his Commando and Hacker attributes rounded down. Worn armor and shields grants a bonus to Defense but raise the Mana cost of spells by their Armor Penalty (AP).
 
-## Rules Mechanics
-### Basic Task Resolution
-Every time a character wants to perform an action which has a chance of failing, the GM may ask the player to roll the dice to determine the outcome of said action. The basic task resolution method is the attribute check. The GM picks the appropriate attribute and decides how difficult the task at hand is. Then the player rolls one six-sided die (also called d6) and adds the relevant attribute's level to the roll's result. If the character knows any skills that might help in that situation, he may add 2 to his result. The final result is then compared to the difficulty level set by the GM. If the result is equal or higher the task was successful. If not, the task failed.
+### Skills
+Each character is also further detailed by a couple of skills. Skills are abilities a character has learned over the years like Riding or Thievery. Skills are not ranked like attributes though. You either have learned a skill, or you don't. Each character starts with three skills of the players choice. Please note that you can't choose a skill if the relevant attribute is ranked at level 0!
 
-Optional: If a character knows more than one skill that could be used in a given situation, the GM may allow the player to add another 2 to the result.
+Skill | Attribute | Description
+--- | --- | ---
+Athletics | Commando | Training in swimming, running and jumping.
+Axes | Commando | Training with axes and polearms
+Blunt Weapons | Commando | Training in all blunt weapons incl. maces and staves.
+Riding | Commando | Training in riding on horses and other common mounts.
+Spears | Commando | Training with spears and lances.
+Swords | Commando | Training with all kinds of swords, including two-handed ones.
+Unarmed | Commando | Training with unarmed fighting.
+Acrobatics | Hacker | Training in activities like dancing, contortion, climbing, tightrope walking, tumbling.
+Bows | Hacker | Skill for using bows and crossbows
+Daggers | Hacker | Training with daggers and knives.
+Firearms | Hacker | Training in the usage of exotic firearms.
+Thievery | Hacker | Training in the roguish arts like picking locks and picking pockets.
+Thrown Weapons | Hacker | Proficiency with thrown weapons like shuriken.
+Alchemy | Witch | Training in creating potions and salves.
+Awareness | Witch | This skill is a measure of a characters awareness of his surroundings.
+Herbalism | Witch | Knowledge of plants, herbs and their medical uses. Can be used to heal critically wounded characters.
+Hermeticism | Witch | Skilled with arcane spells and rituals.
+Lore | Witch | General knowledge.
+Thaumaturgy | Witch | Proficiency with divine spells.
 
-#### Exploding die
-Whenever a player rolls a 6, the die may "explode". This means, the player may roll again and add the second result. If the second result is another 6, you roll again. Only damage rolls and attribute checks where the character owns an appropriate skill are subject to this rule.
+### Talents
+Talents give player characters special abilities that set them apart from mere commoners. You don't have to roll the dice in order to use talents. As soon as a character has acquired a new talent he gets access to a special ability. Some talents may be taken several times.
 
-#### Automatic success
-When the risk of failing is extremely low, or the task is only of minor importance to the story, and the character has the appropriate skill, the GM may decide that no roll is necessary.
-
-#### Unopposed check
-If the task at hand is not actively opposed, the player has to beat a difficulty level determined by the GM.
-
-- Difficulty (DL)
-- Easy (5)
-- Routine (7)
-- Challenging (9)
-- Hard (11)
-- Extreme (13)
-
-#### Opposed check
-When two characters are in direct competition, the opposed check method is used. The DL of the active character is determined by a roll made by the passive character. 
-
-Example: A thief wants to sneak past a guard unnoticed. The guard then rolls a d6 and adds his Witch attribute and the +2 bonus if he owns the Awareness skill to the result. This result then is the DL for the thief's attribute check.
-
-Optional: Instead of rolling, you can just add 3 to the relevant attribute (and the skill bonus) to get the DL.
-
-#### Circumstantial modifiers
-There are circumstances which can make tasks harder or easier to perform than usual: The lack of tools makes it harder to craft something, a master crafted weapon grants a bonus to an attack, or bad lighting conditions make it easier to hide in the shadows. The GM may add circumstantial modifiers to any DL if appropriate.
-
-### Using Luck
-A character can spend one of his Luck points to do the following (GM approval needed): 
-
-- Ignore an attack that would have killed the character
-- Change a minor detail in the game world. For example: your character knows the NPC you’ve just met. Or there is a shop in the town you just entered with the equipment you need.
-- Reroll a single die roll or add +2 to a single check
-
-Luck doesn't regenerate automatically, so players are advised not to waste their Luck. GMs are meant to grant players Luck for heroic actions, good role playing and certain goals their characters achieved.
-
-## Combat
-### Initiative
-Whenever combat occurs, player characters and non-player characters act in turns. At the start of combat, the sequence in which the two sides in the conflict act is determined. This is called initiative. In most cases common sense dictates the initiative. If unsure roll a die for each side. The side with the higher result acts first.
-
-Optional: A character with the Awareness skill may add +2 to the initiative roll.
-
-### Combat actions
-Combat turns are pretty short, so characters can only perform a few actions. Running a short distance, drawing a weapon, attacking a foe, casting a spell are reasonable actions that can be performed during one turn.
-
-### Attack roll
-When a character tries to hit another character in close or ranged combat, his player has to roll the dice to determine if he has hit. Attack rolls work like any other attribute check but the DL is always the target's Defense stat plus any applicable modifiers. Attack rolls are subject to the "exploding die" rule if the character has the appropriate skill and that each additional success after the first adds +1 to the damage caused. Please refer to the Magic chapter for magic attacks.
-
-Example: A thief wants to backstab a guard with a dagger. The skill list determines that when using a dagger the Hacker attribute applies. The thief knows this skill, so he may also add the +2 modifier to his attack roll.
-
-### Damage and Healing
-After having scored a hit, you determine the damage caused. Damage is determined by the weapon used. See the weapon list for details. Please note that damage rolls are always subject to the "exploding die" rule. The victims hitpoints are reduced by a number of points equal to the damage caused. If the hitpoints drop to 0, the character is dead or dying. A character's Health may never drop below 0.
-
-Optional: Characters who were reduced to under half their maximum hitpoints are considered seriously wounded and get a -3 modifier on all checks.
-
-A character heals hitpoints equal to his highest attribute per day of rest. Only light activities are allowed during that time. If a character takes part in a combat, chase or a similar activity he may only heal a single hitpoint that day. Characters with the Herbalism skill may use his abilities to speed up healing. When treated by such a character, you get +2 Healths per day of rest.
+Talent | Description
+--- | ---
+Armored caster | You may reduce the armor penalty by 2. May be taken more than once.
+Blood mage | You may substitute mana with health when casting spells.
+Champion | You have to select a cause. You get a +2 bonus on attack and damage rolls against enemies of that cause. May be taken more than once.
+Channeller | You can add your Witch attribute level to your magic attack damage once per combat
+Craftsman | You are trained in a craft like blacksmithing, carpentry or bowmaking. May be taken more than once.
+Dual-wielding | You may wield a weapon in your off-hand without penalty. Does not grant an extra attack.
+Familiar | You have a small animal like a cat or falcon as a pet that can do some simple tricks.
+Henchman | You are followed by a henchman, that carries your equipment and treasure around.
+Hunter | Your character is a trained hunter and may live off the land easily. When given enough time, he can provide enough food to feed a party of four.
+Leadership | You are a talented leader any may command troops.
+Lucky devil | You may reroll any roll once per scene (or combat)
+Massive attack | You can add your Commando attribute level to your melee attack damage once per combat
+Precise shot | You can add your Hacker attribute level to your ranged attack damage once per combat
+Sailor | You are trained in steering a boat or sailing ship and don't get any penalties for fighting on a sea vessel.
+Sixth Sense | You may roll the dice before any ambush etc., if you rolls 4+ you're not surprised and may act first.
+Tough as nails | Every damage taken is reduced by 2.
 
 ## Magic
 ### Using Magic
@@ -138,7 +115,7 @@ Usually all spells have a certain duration or cause an instant effect. But there
 Touch attack that causes 1d6-2 damage. Each level of mana burn raises the damage by +1.
 
 #### Healing Hand
-Heals 1d6 Health. The caster has to touch the person he wants to heal. Each level of mana burn heals an additional hitpoint.
+Heals 1d6 health. The caster has to touch the person he wants to heal. Each level of mana burn heals an additional health.
 
 #### Magic light
 Caster creates a magic light on the tip of his staff or other weapon, that illuminates a 10 yards radius much like a torch. Mana burn can be used to add one or more of the following effects:
@@ -161,7 +138,7 @@ Caster may remotely move one item up to 1kg. Each mana burn adds another kilogra
 The spell creates one daily ration of food and water for one person.
 
 #### Healing Light
-Heals 1d6 Health. Each level of mana burn heals two additional hitpoints.
+Heals 1d6 health. Each level of mana burn heals two additional health.
 
 #### Identify
 Allows the caster to identify one magic property of an item. Each level of mana burn identifies one additional property.
@@ -173,7 +150,7 @@ Caster may slowly float up and down for up to 3 minutes. The spell can be sustai
 Missile attack that causes 1d6+2 damage (+2 per level of mana burn)
 
 #### Magic Armor
-A magic bubble around the caster absorbs any damage until its Health are depleted or dispelled. The bubble has 4 hitpoint and each level of mana burn adds 4 more. Excess damage is not transferred.
+A magic bubble around the caster absorbs any damage until its health are depleted or dispelled. The bubble has 4 health and each level of mana burn adds 4 more. Excess damage is not transferred.
 
 ### 3rd Circle Spells
 #### Chain Lightning
@@ -193,7 +170,7 @@ Touch-attack that puts target into stasis. For the target time stands still, it 
 
 ### 4th Circle Spells
 #### Summon Earth Elemental
-Caster summons an Earth Elemental under his control. The Elemental is destroyed when its Health are depleted or when dispelled by the caster.
+Caster summons an Earth Elemental under his control. The Elemental is destroyed when its health are depleted or when dispelled by the caster.
 
 #### Magic step
 The caster can teleport up to 10 yards in any direction. Each mana burn can add 10 yards to the distance teleported. No line of sight is needed, but the caster must have a clear image of the place where he wants to teleport to in his mind.
@@ -202,7 +179,7 @@ The caster can teleport up to 10 yards in any direction. Each mana burn can add 
 The caster can open moongates at special places (like stone circles) that allow instant travel over long distances. Moongates start to close slowly after 2 minutes. They can not be held open nor can they can only be open once every 6 hours.
 
 #### Return to life
-Caster can revive one fallen character as long as the body is still intact and warm. Upon success the character also gets back 2 Health. Mana burn can be used to increase the healing by 2 hitpoints.
+Caster can revive one fallen character as long as the body is still intact and warm. Upon success the character also gets back 2 health. Mana burn can be used to increase the healing by 2 health.
 
 #### Summon Phantom Steed
 The caster calls a phantom steed that can act as a mount for 24 hours. The phantom steed needs no rest and can walk on water. This spell can not be sustained, the steed must be resummoned after the 24 hours.
@@ -315,124 +292,64 @@ Lantern – lanterns produce a brighter light than torches and are not as easily
 Magic Implement – A magic implement can take many forms (gauntlet, amulet, wand, etc.). For more details on magic implements see Chapter 4.
 
 Torch – a lit or un-lit torch can be used as an improvised weapon. Use the Blunt skill. Damage is 1d6-2 for unlit and 1d6-1 for lit torches. Flammable enemies may be set ablaze.
+## Rules Mechanics
+### Basic Task Resolution
+Every time a character wants to perform an action which has a chance of failing, the GM may ask the player to roll the dice to determine the outcome of said action. The basic task resolution method is the attribute check. The GM picks the appropriate attribute and decides how difficult the task at hand is. Then the player rolls one six-sided die (also called d6) and adds the relevant attribute's level to the roll's result. If the character knows any skills that might help in that situation, he may add 2 to his result. The final result is then compared to the difficulty level set by the GM. If the result is equal or higher the task was successful. If not, the task failed.
 
-### Magic Items
+Optional: If a character knows more than one skill that could be used in a given situation, the GM may allow the player to add another 2 to the result.
 
-#### Runeblade
-This rune covered sword ignores any armor. Attack rolls with this weapon are made against basic Defense.
+#### Exploding die
+Whenever a player rolls a 6, the die may "explode". This means, the player may roll again and add the second result. If the second result is another 6, you roll again. Only damage rolls and attribute checks where the character owns an appropriate skill are subject to this rule.
 
-#### Holy Sword
-This gold-hilted, silvery blade is bane against the undead, inflicting 2d6 damage to skeletons, zombies, vampires, and their ilk.
+#### Automatic success
+When the risk of failing is extremely low, or the task is only of minor importance to the story, and the character has the appropriate skill, the GM may decide that no roll is necessary.
 
-#### Warmage armor
-This plate armor from the time of the Imperium uses special enchantments to allow casters to wear it without penalty. It’s statistics are equal to normal plate armor, but it’s AP is 0.
+#### Unopposed check
+If the task at hand is not actively opposed, the player has to beat a difficulty level determined by the GM.
 
-#### Enchanted armor
-The most common of enchanted armors, these suits and shields are unusually durable and permit the flow of arcane energies more effectively. Enchanted armors and shields gain a +1 Defense bonus and reduce their Armor Penalties by 1. Roll 1d6 to determine the type, then another 1d6 to determine the actual armor/shield:
-Roll 1. Type (1-4: Armor, 5-6: Shield)
-Roll 2. Actual armor/shield (Armor 1: Leather, 2: Scale, 3: Lamellar, 4: Chain, 5: Light Plate, 6: Heavy Plate; Shield 1-2: Small Shield, 3-5: Large Shield, 6: Tower Shield)
+- Difficulty (DL)
+- Easy (5)
+- Routine (7)
+- Challenging (9)
+- Hard (11)
+- Extreme (13)
 
-#### Healing potion
-This vial contains a red bubbling liquid that heals 1d6 Health when quaffed.
+#### Opposed check
+When two characters are in direct competition, the opposed check method is used. The DL of the active character is determined by a roll made by the passive character. 
 
-#### Mana potion
-This vial contains a blue bubbling potion that restores 1d6 Mana points when quaffed.
+Example: A thief wants to sneak past a guard unnoticed. The guard then rolls a d6 and adds his Witch attribute and the +2 bonus if he owns the Awareness skill to the result. This result then is the DL for the thief's attribute check.
 
-#### Gauntlets of Titanic Strength
-These large gauntlets cause 2d6 damage when used for unarmed attacks.
+Optional: Instead of rolling, you can just add 3 to the relevant attribute (and the skill bonus) to get the DL.
 
-#### Feathered cloak
-This cloak is completely covered by raven feathers that slow every fall, so that the wearer does not sustain any damage from the fall.
+#### Circumstantial modifiers
+There are circumstances which can make tasks harder or easier to perform than usual: The lack of tools makes it harder to craft something, a master crafted weapon grants a bonus to an attack, or bad lighting conditions make it easier to hide in the shadows. The GM may add circumstantial modifiers to any DL if appropriate.
 
-#### Changestave
-This simple whitewood stave can extend or retract on command, shrinking so as to fit within the palm or growing up to 10 yards in length or any length in between. This makes it extremely versatile; it can be easily concealed, used as a baton or staff in combat, used as a walking stick, used for poling rafts and boats over shallow water, or for bridging gaps shorter than its full extended length. The Changestave has the same traits as the staff when used in combat.
+### Using Luck
+A character can spend one of his Luck points to do the following (GM approval needed): 
 
-## Appendix 1: Skills & Talents
-The table below lists all available skills for CH&W. Of course GMs are free to add more skills, if necessary.
+- Ignore an attack that would have killed the character
+- Change a minor detail in the game world. For example: your character knows the NPC you’ve just met. Or there is a shop in the town you just entered with the equipment you need.
+- Reroll a single die roll or add +2 to a single check
 
-Skill | Attribute | Description
---- | --- | ---
-Athletics | Commando | Training in swimming, running and jumping.
-Axes | Commando | Training with axes and polearms
-Blunt Weapons | Commando | Training in all blunt weapons incl. maces and staves.
-Riding | Commando | Training in riding on horses and other common mounts.
-Spears | Commando | Training with spears and lances.
-Swords | Commando | Training with all kinds of swords, including two-handed ones.
-Unarmed | Commando | Training with unarmed fighting.
-Acrobatics | Hacker | Training in activities like dancing, contortion, climbing, tightrope walking, tumbling.
-Bows | Hacker | Skill for using bows and crossbows
-Daggers | Hacker | Training with daggers and knives.
-Firearms | Hacker | Training in the usage of exotic firearms.
-Thievery | Hacker | Training in the roguish arts like picking locks and picking pockets.
-Thrown Weapons | Hacker | Proficiency with thrown weapons like shuriken.
-Alchemy | Witch | Training in creating potions and salves.
-Awareness | Witch | This skill is a measure of a characters awareness of his surroundings.
-Herbalism | Witch | Knowledge of plants, herbs and their medical uses. Can be used to heal critically wounded characters.
-Hermeticism | Witch | Skilled with arcane spells and rituals.
-Lore | Witch | General knowledge.
-Thaumaturgy | Witch | Proficiency with divine spells.
+Luck doesn't regenerate automatically, so players are advised not to waste their Luck. GMs are meant to grant players Luck for heroic actions, good role playing and certain goals their characters achieved.
 
-### Talents list
+## Combat
+### Initiative
+Whenever combat occurs, player characters and non-player characters act in turns. At the start of combat, the sequence in which the two sides in the conflict act is determined. This is called initiative. In most cases common sense dictates the initiative. If unsure roll a die for each side. The side with the higher result acts first.
 
-The following list contains all talents available for characters in CH&W. GMs are free to add more if needed.
+Optional: A character with the Awareness skill may add +2 to the initiative roll.
 
-#### Armored caster
-You may reduce the armor penalty by 2. May be taken more than once.
+### Combat actions
+Combat turns are pretty short, so characters can only perform a few actions. Running a short distance, drawing a weapon, attacking a foe, casting a spell are reasonable actions that can be performed during one turn.
 
-#### Blood mage
-You may substitute mana with hitpoints when casting spells.
+### Attack roll
+When a character tries to hit another character in close or ranged combat, his player has to roll the dice to determine if he has hit. Attack rolls work like any other attribute check but the DL is always the target's Defense stat plus any applicable modifiers. Attack rolls are subject to the "exploding die" rule if the character has the appropriate skill and that each additional success after the first adds +1 to the damage caused. Please refer to the Magic chapter for magic attacks.
 
-#### Champion
-You have to select a cause. You get a +2 bonus on attack and damage rolls against enemies of that cause. May be taken more than once.
+Example: A thief wants to backstab a guard with a dagger. The skill list determines that when using a dagger the Hacker attribute applies. The thief knows this skill, so he may also add the +2 modifier to his attack roll.
 
-#### Channeller
-You can add your Witch attribute level to your magic attack damage once per combat
+### Damage and Healing
+After having scored a hit, you determine the damage caused. Damage is determined by the weapon used. See the weapon list for details. Please note that damage rolls are always subject to the "exploding die" rule. The victims health are reduced by a number of points equal to the damage caused. If the health drop to 0, the character is dead or dying. A character's health may never drop below 0.
 
-#### Craftsman
-You are trained in a craft like blacksmithing, carpentry or bowmaking. May be taken more than once.
+Optional: Characters who were reduced to under half their maximum health are considered seriously wounded and get a -3 modifier on all checks.
 
-#### Dual-wielding
-You may wield a weapon in your off-hand without penalty. Does not grant an extra attack.
-
-#### Familiar
-You have a small animal like a cat or falcon as a pet that can do some simple tricks.
-
-#### Henchman
-You are followed by a henchman, that carries your equipment and treasure around.
-
-#### Hunter
-Your character is a trained hunter and may live off the land easily. When given enough time, he can provide enough food to feed a party of four.
-
-#### Leadership
-You are a talented leader any may command troops.
-
-#### Lucky devil
-You may reroll any roll once per scene (or combat)
-
-#### Massive attack
-You can add your Commando attribute level to your melee attack damage once per combat
-
-#### Precise shot
-You can add your Hacker attribute level to your ranged attack damage once per combat
-
-#### Sailor
-You are trained in steering a boat or sailing ship and don't get any penalties for fighting on a sea vessel.
-
-#### Sixth Sense
-You may roll the dice before any ambush etc., if you rolls 4+ you're not surprised and may act first.
-
-#### Tough as nails
-Every damage taken is reduced by 2.
-
-## Appendix 2: Character Creation Summary
-1.  Distribute 10 attribute levels among the three attributes Commando, Hacker, and Witch. No attribute may be higher than six.
-2.  Pick three skills
-3.  Pick one talent
-4.  (Optional : Choose a non-human race for your character and write down the racial talents on your character sheet)
-5.  Calculate Health, Luck, Mana and Defense
-    - Health = 6 + Commando
-    - Luck = 1x Hacker 
-    - Mana = 2x Witch
-    - Defense = (Commando + Hacker)/2 + 4
-6.  Purchase starting equipment for 200 SP.
-7.  Fill out character sheet.
+A character heals health equal to his highest attribute per day of rest. Only light activities are allowed during that time. If a character takes part in a combat, chase or a similar activity he may only heal a single health that day. Characters with the Herbalism skill may use his abilities to speed up healing. When treated by such a character, you get +2 Healths per day of rest.
