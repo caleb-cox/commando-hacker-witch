@@ -33,31 +33,31 @@ Each character is also further detailed by a couple of skills. Skills are abilit
 
 Skill | Attribute | Description
 --- | --- | ---
-Athletics | Commando | TO DO
-Demolition | Commando | TO DO
-Driving | Commando | TO DO
-Firearms | Commando | TO DO
-Ninjitsu | Commando | TO DO
-Survival | Commando | TO DO
-Connections | Hacker | TO DO
-Hardware | Hacker | TO DO
-Petty Crime | Hacker | TO DO
-Rollerblading | Hacker | TO DO
-Software | Hacker | TO DO
-Street Cred | Hacker | TO DO
-Awareness | Witch | TO DO
-Charms | Witch | TO DO
-Divination | Witch | TO DO
-Herbalism | Witch | TO DO
-Hexes | Witch | TO DO
-Knowledge | Witch | TO DO
+Athletics | Commando | Experience in swimming, running and jumping.
+Demolition | Commando | Training with all kinds of explosives.
+Driving | Commando | Training in vehicle use, to be specified on skill selection.
+Firearms | Commando | Training in all basic firearms: pistols, rifles, etc.
+Ninjitsu | Commando | Training in stealth and martial arts.
+Survival | Commando | Training in wilderness and urban survival. Gathering food, etc.
+Connections | Hacker | Knowing prominent people within a certain environment, to be specified on skill selection.
+Hardware | Hacker | Proficiency with electronics, computer hardware.
+Petty Crime | Hacker | Experience with picking locks, picking pockets, shoplifting, etc.
+Rollerblading | Hacker | Training in rollerblading.
+Software | Hacker | Proficiency with software, coding, systems, networks, etc.
+Street Cred | Hacker | Knowledge of cool stuff, reputation.
+Awareness | Witch | A measure of a characters awareness of their surroundings.
+Charms | Witch | Proficiency with spells that manipulate reality in a positive way.
+Divination | Witch | Experience with foresight or ESP through tarot, palmistry, numerology, etc.
+Herbalism | Witch | Knowledge of plants, herbs and their medical uses.
+Hexes | Witch | Proficiency with spells that manipulate reality in a damaging way.
+Knowledge | Witch | General knowledge, to be specified on skill selection.
 
 ### Talents
 Talents give player characters special abilities that set them apart from mere commoners. You don't have to roll the dice in order to use talents. As soon as a character has acquired a new talent they gets access to a special ability. Some talents may be taken several times.
 
 Talent | Description
 --- | ---
-Blood Magic | You may substitute mana with health when casting spells.
+Blood Magic | You may substitute Mana with Health when casting spells.
 Champion | Select a cause. You get a +2 bonus on attack and damage rolls against enemies of that cause. May be taken more than once.
 Channeller | You can add your Witch attribute level to your magic attack damage once per combat.
 Critical Hit | You can add your Commando attribute level to your weapon attack damage once per combat.
@@ -74,110 +74,74 @@ Profession | You are trained in an occupation like gunsmith, librarian or warez-
 Tough as Nails | All damage taken is reduced by 2.
 
 ## Equipment
-Each character starts with 200 silver pieces (SP) to purchase equipment.
+Each character starts with $1000 to purchase equipment.
 
 ### Weapons
-Weapon | Skill | Damage | Cost (SP)
---- | --- | --- | ---
-Axe | Axes | 1d6 | 5
-Bow | Bows| 1d6 | 4
-Crossbow | Bows | 1d6+3 | 8
-Dagger | Daggers | 1d6-2 | 2
-Dragon pistol | Firearms | 1d6+4 | 18
-Dragon rifle | Firearms | 2d6 | 25
-Halberd | Axes | 1d6 | 7
-Longbow | Bows | 1d6+2 | 8
-Mace | Blunt | 1d6 | 5
-Spear | Thrown | 1d6 | 3
-Staff | Blunt | 1d6 | 2
-Sword | Swords | 1d6 | 5
-Throwing star | Thrown | 1d6-2 | 2
-Two-handed weapon | * | 2d6 | 10 
-Warhammer | Blunt | 1d6 | 5
+Weapon | Skill | Damage | Range | Cost (SP)
+--- | --- | --- | --- | ---
+Bow | Ninjitsu | 1d6 | Medium | $200
+Katana | Ninjitsu | 1d6 | Melee | $200
+Knife | Survival | 1d6-1 | Melee | $100
+Pistol | Firearms | 1d6+3 | Medium | $500
+Rifle | Firearms | 2d6 | Long | $300
+Shotgun | Firearms | 2d6+3 | Close | $400
+Shuriken | Ninjitsu | 1d6-2 | Medium | $10
 
 ### General equipment
-Item | SP
+Item | Price
 --- | ---
-Adventurer's Kit | 5
-Backpack | 4
-Cask of beer | 6
-Cask of wine | 9
-Donkey or Mule | 25
-Iron Rations (for 1 week) | 14
-Lantern | 5
-Lock pick | 2
-Noble’s clothing | 12
-Normal clothing | 3
-Ox cart | 7
-Packhorse | 30
-Pickaxe | 3
-Pole 3 yards | 1
-Rations (for 1 week) | 7
-Riding horse | 75
-Rope (10 yards) | 2
-Saddle bags, saddle and bridle | 8
-Torch | 1
-Travel clothing | 5
-Warhorse | 150
-1st circle spell scroll | 25
-2nd circle spell scroll | 50
-3rd circle spell scroll | 75
-4th circle spell scroll | 100
-Spellbook | 20
-
-Adventurer’s Kit – This kit contains flint and tinder, a water flask, a blanket, a bed roll and a small tent.
-
-Iron Rations – These rations don’t spoil over time.
-
-Lantern – lanterns produce a brighter light than torches and are not as easily blown out.
-
-Magic Implement – A magic implement can take many forms (gauntlet, amulet, wand, etc.). For more details on magic implements see Chapter 4.
-
-Torch – a lit or un-lit torch can be used as an improvised weapon. Use the Blunt skill. Damage is 1d6-2 for unlit and 1d6-1 for lit torches. Flammable enemies may be set ablaze.
+Ammunition (100) | $25
+Backpack | $40
+Camcorder | $800
+Cantrip Scroll | $500
+Cellular Phone | $400
+Crowbar | $20
+Desktop Computer | $1200
+Duct Tape | $10
+Electronics Kit | $100
+Flashlight | $20
+Game Boy | $90
+Herbalism Kit | $80
+Laptop Computer | $1800
+Lockpicks | $50
+Pager | $100
+Pepper Spray | $20
+Portable CD Player | $100
+Rollerblades | $150
+Rope (50ft) | $20
+Spellbook | $100
+Tarot Deck | $50
+Walkie-talkie | $100
 
 ## Magic
 ### Using Magic
-Characters with a Witch attribute of 1 or higher have access to spells. Spells can be found or bought. These spells must first be transferred to a character's personal spell book before they can be used. To cast a spell from the book, the character has to make a roll versus the DL or the spell. If successful, their mana pool is reduced by the amount listed for the spell.
+Characters with a Witch attribute of 1 or higher have access to spells. Spells can be found or bought. These spells must first be transferred to a character's personal spell book before they can be used. To cast a spell from the book, the character has to make a roll versus the DL of the spell. If successful, their Mana pool is reduced by the amount listed for the spell.
 
 ### Mana regeneration
-A character gets back their full mana pool for a good night's sleep and receives mana equal to their Witch attribute for one hour of meditation.
+A character gets back their full Mana pool for a good night's sleep and receives Mana equal to their Witch attribute for one hour of meditation.
 
 ### Casting Spells
 In order to cast spells a character needs at least Witch level 1. The range of all spells is the line of sight if the spell description does not say otherwise.
 
 Spells are divided between cantrips and rituals. Cantrips are the easiest to cast and least powerful, available to anyone with the relevant skill (Charms, Divination, Herbalism, or Hexes). Rituals are significantly stronger spells only available to casters with the Pact talent.
 
-### Mana burning
-A spell caster may choose to burn additional mana to improve the spell's effects. Each level of mana burn costs half the initial mana cost and raises the spells DL by one. The effects of the mana burn are listed with each spells description. Please note that you have to use mana from your personal pool for mana burning even if you cast a spell from an implement.
-
 ### Sustaining spells
-Usually all spells have a certain duration or cause an instant effect. But there may be cases when a caster wants to sustain a spell over longer periods of time. If a spell can be sustained, it's listed in the spells description. In order to sustain a spell over longer period of time, the caster has to concentrate which penalizes all of their actions by a modifier of -1. The mana cost for sustaining the spell is listed with the spell's description. 
+Usually all spells have a certain duration or cause an instant effect. But there may be cases when a caster wants to sustain a spell over longer periods of time. If a spell can be sustained, it's listed in the spells description. In order to sustain a spell over longer period of time, the caster has to concentrate which penalizes all of their actions by a modifier of -1. The Mana cost for sustaining the spell is listed with the spell's description. 
 
 ## Spell List
 ### Cantrips
-#### Frostburn
-Touch attack that causes 1d6-2 damage. Each level of mana burn raises the damage by +1.
-
-#### Healing Hand
-Heals 1d6 health. The caster has to touch the person they wants to heal. Each level of mana burn heals an additional health.
-
-#### Magic light
-Caster creates a magic light on the tip of their staff or other weapon, that illuminates a 10 yards radius much like a torch. Mana burn can be used to add one or more of the following effects:
-
-- Ball of light (the caster forms the light into a ball that they can control with their thoughts)
-- Colored light (the light shines in a color of the caster's choosing)
-- Light beam (the light shines in a tight beam which reaches 15 yards)
-- Flash (the effect lasts only one round but blinds everyone who looks unprotected into the flash for 1d6 rounds)
-
-The magic light shines for 1 hour or until dispelled by the caster. It can also be sustained for 1 additional mana per hour.
-
-#### Sense Magic
-Caster can sense magic in a 3 yards radius. Each level of mana burn adds another yard to the radius.
-
-#### Telekinesis
-Caster may remotely move one item up to 1kg. Each mana burn adds another kilogram of weight that can be moved. Telekinesis lasts for 1 min and can be sustained for 1 additional mana per minute.
+#### Cantrip Name
+Skill | Mana | DL
+--- | --- | ---
+Hexes | 1 | 5
+Here is the spell description. Blah blah blah
 
 ### Rituals
+#### Ritual Name
+Skill | Mana | DL
+--- | --- | ---
+Hexes | 8 | 13
+Here is the spell description. Blah blah blah
 
 ## Rules Mechanics
 ### Basic Task Resolution
@@ -230,13 +194,13 @@ Optional: A character with the Awareness skill may add +2 to the initiative roll
 Combat turns are pretty short, so characters can only perform a few actions. Running a short distance, drawing a weapon, attacking a foe, casting a spell are reasonable actions that can be performed during one turn.
 
 ### Attack roll
-When a character tries to hit another character in close or ranged combat, their player has to roll the dice to determine if they has hit. Attack rolls work like any other attribute check but the DL is always the target's Defense stat plus any applicable modifiers. Attack rolls are subject to the "exploding die" rule if the character has the appropriate skill and that each additional success after the first adds +1 to the damage caused. Please refer to the Magic chapter for magic attacks.
+When a character tries to hit another character in close or ranged combat, their player has to roll the dice to determine if they have hit. Attack rolls work like any other attribute check but the DL is always the target's Defense stat plus any applicable modifiers. Attack rolls are subject to the "exploding die" rule if the character has the appropriate skill and that each additional success after the first adds +1 to the damage caused. Please refer to the Magic chapter for magic attacks.
 
-Example: A thief wants to backstab a guard with a dagger. The skill list determines that when using a dagger the Hacker attribute applies. The thief knows this skill, so they may also add the +2 modifier to their attack roll.
+Example: A thief wants to backstab a guard with a knife. The skill list determines that when using a knife the Commando attribute applies. The thief knows this skill, so they may also add the +2 modifier to their attack roll.
 
 ### Damage and Healing
-After having scored a hit, you determine the damage caused. Damage is determined by the weapon used. See the weapon list for details. Please note that damage rolls are always subject to the "exploding die" rule. The victims health are reduced by a number of points equal to the damage caused. If the health drop to 0, the character is dead or dying. A character's health may never drop below 0.
+After having scored a hit, you determine the damage caused. Damage is determined by the weapon used. See the weapon list for details. Please note that damage rolls are always subject to the "exploding die" rule. The victims Health are reduced by a number of points equal to the damage caused. If the Health drop to 0, the character is dead or dying. A character's Health may never drop below 0.
 
-Optional: Characters who were reduced to under half their maximum health are considered seriously wounded and get a -3 modifier on all checks.
+Optional: Characters who were reduced to under half their maximum Health are considered seriously wounded and get a -3 modifier on all checks.
 
-A character heals health equal to their highest attribute per day of rest. Only light activities are allowed during that time. If a character takes part in a combat, chase or a similar activity they may only heal a single health that day. Characters with the Herbalism skill may use their abilities to speed up healing. When treated by such a character, you get +2 Healths per day of rest.
+A character heals Health equal to their highest attribute per day of rest. Only light activities are allowed during that time. If a character takes part in a combat, chase or a similar activity they may only heal a single Health that day. Characters with the Herbalism skill may use their abilities to speed up healing. When treated by such a character, you get +2 Health per day of rest.
