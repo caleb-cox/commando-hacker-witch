@@ -35,154 +35,45 @@ Each character is also further detailed by a couple of skills. Skills are abilit
 
 Skill | Attribute | Description
 --- | --- | ---
-Athletics | Commando | Training in swimming, running and jumping.
-Axes | Commando | Training with axes and polearms
-Blunt Weapons | Commando | Training in all blunt weapons incl. maces and staves.
-Riding | Commando | Training in riding on horses and other common mounts.
-Spears | Commando | Training with spears and lances.
-Swords | Commando | Training with all kinds of swords, including two-handed ones.
-Unarmed | Commando | Training with unarmed fighting.
-Acrobatics | Hacker | Training in activities like dancing, contortion, climbing, tightrope walking, tumbling.
-Bows | Hacker | Skill for using bows and crossbows
-Daggers | Hacker | Training with daggers and knives.
-Firearms | Hacker | Training in the usage of exotic firearms.
-Thievery | Hacker | Training in the roguish arts like picking locks and picking pockets.
-Thrown Weapons | Hacker | Proficiency with thrown weapons like shuriken.
-Alchemy | Witch | Training in creating potions and salves.
-Awareness | Witch | This skill is a measure of a characters awareness of his surroundings.
-Herbalism | Witch | Knowledge of plants, herbs and their medical uses. Can be used to heal critically wounded characters.
-Hermeticism | Witch | Skilled with arcane spells and rituals.
-Lore | Witch | General knowledge.
-Thaumaturgy | Witch | Proficiency with divine spells.
+Athletics | Commando | TO DO
+Demolition | Commando | TO DO
+Driving | Commando | TO DO
+Firearms | Commando | TO DO
+Ninjitsu | Commando | TO DO
+Survival | Commando | TO DO
+Connections | Hacker | TO DO
+Hardware | Hacker | TO DO
+Petty Crime | Hacker | TO DO
+Rollerblading | Hacker | TO DO
+Software | Hacker | TO DO
+Street Cred | Hacker | TO DO
+Awareness | Witch | TO DO
+Charms | Witch | TO DO
+Divination | Witch | TO DO
+Herbalism | Witch | TO DO
+Hexes | Witch | TO DO
+Knowledge | Witch | TO DO
 
 ### Talents
 Talents give player characters special abilities that set them apart from mere commoners. You don't have to roll the dice in order to use talents. As soon as a character has acquired a new talent he gets access to a special ability. Some talents may be taken several times.
 
 Talent | Description
 --- | ---
-Armored caster | You may reduce the armor penalty by 2. May be taken more than once.
-Blood mage | You may substitute mana with health when casting spells.
+Blood Magic | You may substitute mana with health when casting spells.
 Champion | You have to select a cause. You get a +2 bonus on attack and damage rolls against enemies of that cause. May be taken more than once.
-Channeller | You can add your Witch attribute level to your magic attack damage once per combat
-Craftsman | You are trained in a craft like blacksmithing, carpentry or bowmaking. May be taken more than once.
+Channeller | You can add your Witch attribute level to your magic attack damage once per combat.
+Critical Hit | You can add your Commando attribute level to your weapon attack damage once per combat.
+Crony | You are followed by a henchman, who carries your crap and picks up your dry cleaning.
 Dual-wielding | You may wield a weapon in your off-hand without penalty. Does not grant an extra attack.
-Familiar | You have a small animal like a cat or falcon as a pet that can do some simple tricks.
-Henchman | You are followed by a henchman, that carries your equipment and treasure around.
-Hunter | Your character is a trained hunter and may live off the land easily. When given enough time, he can provide enough food to feed a party of four.
-Leadership | You are a talented leader any may command troops.
-Lucky devil | You may reroll any roll once per scene (or combat)
-Massive attack | You can add your Commando attribute level to your melee attack damage once per combat
-Precise shot | You can add your Hacker attribute level to your ranged attack damage once per combat
-Sailor | You are trained in steering a boat or sailing ship and don't get any penalties for fighting on a sea vessel.
-Sixth Sense | You may roll the dice before any ambush etc., if you rolls 4+ you're not surprised and may act first.
-Tough as nails | Every damage taken is reduced by 2.
-
-## Magic
-### Using Magic
-Characters with a Witch attribute of 1 or higher have access to spells. Spells can be found or bought. These spells must first be transferred to a character's personal spell book before they can be used. To cast a spell from the book, the character has to make a roll versus the DL or the spell. If successful, his mana pool is reduced by the amount listed for the spell.
-
-### Magic implement
-A character who wants to focus on magic usually owns a magic implement. This may be a staff, gauntlet, ring, or a similar piece of equipment. Magic implements are used to store spells that the magic user can later cast without having to spend any mana from his personal pool. Magic implements have to be charged with mana before they can be used and that mana pool is then used to power spell cast from it. As long as it is powered it also grants a thaumaturgy bonus equal to its level. An implement can hold 10 mana per level of the item. Powering the implement is expensive though. For each mana stored in the implement, the caster has to spend two from his personal pool. Implements may be charged in multiple sessions.
-
-A character can only store spells he knows in a magic implement. The stored spell remains in the implement until replaced. A magic implement can store spells up to its level. A level 3 implement may store one 3rd circle spell, but it may also be used to store one 2nd circle and one 1st circle spell or three 1st circle spells.
-
-### Mana regeneration
-A character gets back his full mana pool for a good night's sleep and receives mana equal to his Witch attribute for one hour of meditation. Magic potions may also regenerate mana.
-
-### Casting Spells
-In order to cast spells a character needs at least Witch level 1. The thaumaturgy skill is helpful, but not necessary, especially if the character wants to use only a few simple spells. The range of all spells is the line of sight if the spell description does not say otherwise.
-
-Spells are divided into four circles. Spells of the 1st circle are the easiest and less powerful, while 4th circle spell are considerably more powerful and need more skill to be cast.
-
-Circle | Mana cost | DL
---- | --- | ---
-1st | 1 | 5 
-2nd | 2 | 7
-3rd | 4 | 9
-4th | 8 | 13
-
-A caster that wears armor needs to add the AP of the armor worn to the mana cost.
-
-### Mana burning
-A spell caster may choose to burn additional mana to improve the spell's effects. Each level of mana burn costs half the initial mana cost and raises the spells DL by one. The effects of the mana burn are listed with each spells description. Please note that you have to use mana from your personal pool for mana burning even if you cast a spell from an implement.
-
-### Sustaining spells
-Usually all spells have a certain duration or cause an instant effect. But there may be cases when a caster wants to sustain a spell over longer periods of time. If a spell can be sustained, it's listed in the spells description. In order to sustain a spell over longer period of time, the caster has to concentrate which penalizes all of his actions by a modifier of -1. The mana cost for sustaining the spell is listed with the spell's description. 
-
-## Spell List
-### 1st Circle Spells
-#### Frostburn
-Touch attack that causes 1d6-2 damage. Each level of mana burn raises the damage by +1.
-
-#### Healing Hand
-Heals 1d6 health. The caster has to touch the person he wants to heal. Each level of mana burn heals an additional health.
-
-#### Magic light
-Caster creates a magic light on the tip of his staff or other weapon, that illuminates a 10 yards radius much like a torch. Mana burn can be used to add one or more of the following effects:
-
-- Ball of light (the caster forms the light into a ball that he can control with his thoughts)
-- Colored light (the light shines in a color of the caster's choosing)
-- Light beam (the light shines in a tight beam which reaches 15 yards)
-- Flash (the effect lasts only one round but blinds everyone who looks unprotected into the flash for 1d6 rounds)
-
-The magic light shines for 1 hour or until dispelled by the caster. It can also be sustained for 1 additional mana per hour.
-
-#### Sense Magic
-Caster can sense magic in a 3 yards radius. Each level of mana burn adds another yard to the radius.
-
-#### Telekinesis
-Caster may remotely move one item up to 1kg. Each mana burn adds another kilogram of weight that can be moved. Telekinesis lasts for 1 min and can be sustained for 1 additional mana per minute.
-
-### 2nd Circle Spells
-#### Create food and water
-The spell creates one daily ration of food and water for one person.
-
-#### Healing Light
-Heals 1d6 health. Each level of mana burn heals two additional health.
-
-#### Identify
-Allows the caster to identify one magic property of an item. Each level of mana burn identifies one additional property.
-
-#### Levitation
-Caster may slowly float up and down for up to 3 minutes. The spell can be sustained for 1 mana per additional minute. Please note that this spell provides no horizontal propulsion, but a caster may other means to float horizontally.
-
-#### Lightning bolt
-Missile attack that causes 1d6+2 damage (+2 per level of mana burn)
-
-#### Magic Armor
-A magic bubble around the caster absorbs any damage until its health are depleted or dispelled. The bubble has 4 health and each level of mana burn adds 4 more. Excess damage is not transferred.
-
-### 3rd Circle Spells
-#### Chain Lightning
-As lightning bolt, but can also attack multiple enemies as long as they are within 5 yards of each other. The damage of the spell can be increased by mana burns. The maximum number of targets affected is 3.
-
-#### Walk on Air
-The caster may walk on air as if it were solid ground for up to 3 minutes. The spell can be sustained for 1 minute per additional mana spent.
-
-#### Firebolt
-This missile spell causes 3d6 damage in a radius of three yards. Mana burn can be used to either improve the damage by +2 or the radius by 2 yards.
-
-#### Enchant weapon
-The caster puts a temporary enchantment on a weapon that then grants its wielder +2 on attack rolls and any damage caused. Lasts for one combat encounter. Mana burn can be used to add +1 to both the attack and damage bonuses.
-
-#### Stasis
-Touch-attack that puts target into stasis. For the target time stands still, it cannot move, attack or be attacked. Last for a number of hours equal to successes rolled. 
-
-### 4th Circle Spells
-#### Summon Earth Elemental
-Caster summons an Earth Elemental under his control. The Elemental is destroyed when its health are depleted or when dispelled by the caster.
-
-#### Magic step
-The caster can teleport up to 10 yards in any direction. Each mana burn can add 10 yards to the distance teleported. No line of sight is needed, but the caster must have a clear image of the place where he wants to teleport to in his mind.
-
-#### Use moongate
-The caster can open moongates at special places (like stone circles) that allow instant travel over long distances. Moongates start to close slowly after 2 minutes. They can not be held open nor can they can only be open once every 6 hours.
-
-#### Return to life
-Caster can revive one fallen character as long as the body is still intact and warm. Upon success the character also gets back 2 health. Mana burn can be used to increase the healing by 2 health.
-
-#### Summon Phantom Steed
-The caster calls a phantom steed that can act as a mount for 24 hours. The phantom steed needs no rest and can walk on water. This spell can not be sustained, the steed must be resummoned after the 24 hours.
+Elite Gear | TO DO
+Familiar | You have a small animal like a cat or pigeon as a pet that can do some simple tricks.
+Hack the Planet | TO DO
+MacGuyver | TO DO
+Off the Grid | TO DO
+Pact | You are able to learn and cast ritual spells.
+Premonition | You may reroll any roll once per scene (or combat).
+Profession | You are trained in an occupation like gunsmith, librarian or warez-dealer.
+Tough as Nails | All damage taken is reduced by 2.
 
 ## Equipment
 Each character starts with 200 silver pieces (SP) to purchase equipment. Every character can wield every weapon. Spellcasting characters may wear armor, but the armor penalty of the armor worn raises the mana cost of each spell cast.
@@ -292,6 +183,49 @@ Lantern – lanterns produce a brighter light than torches and are not as easily
 Magic Implement – A magic implement can take many forms (gauntlet, amulet, wand, etc.). For more details on magic implements see Chapter 4.
 
 Torch – a lit or un-lit torch can be used as an improvised weapon. Use the Blunt skill. Damage is 1d6-2 for unlit and 1d6-1 for lit torches. Flammable enemies may be set ablaze.
+
+## Magic
+### Using Magic
+Characters with a Witch attribute of 1 or higher have access to spells. Spells can be found or bought. These spells must first be transferred to a character's personal spell book before they can be used. To cast a spell from the book, the character has to make a roll versus the DL or the spell. If successful, his mana pool is reduced by the amount listed for the spell.
+
+### Mana regeneration
+A character gets back his full mana pool for a good night's sleep and receives mana equal to his Witch attribute for one hour of meditation.
+
+### Casting Spells
+In order to cast spells a character needs at least Witch level 1. The range of all spells is the line of sight if the spell description does not say otherwise.
+
+Spells are divided between cantrips and rituals. Cantrips are the easiest to cast and least powerful, available to anyone with the relevant skill (Charms, Divination, Herbalism, or Hexes). Rituals are significantly stronger spells only available to casters with the Pact talent.
+
+### Mana burning
+A spell caster may choose to burn additional mana to improve the spell's effects. Each level of mana burn costs half the initial mana cost and raises the spells DL by one. The effects of the mana burn are listed with each spells description. Please note that you have to use mana from your personal pool for mana burning even if you cast a spell from an implement.
+
+### Sustaining spells
+Usually all spells have a certain duration or cause an instant effect. But there may be cases when a caster wants to sustain a spell over longer periods of time. If a spell can be sustained, it's listed in the spells description. In order to sustain a spell over longer period of time, the caster has to concentrate which penalizes all of his actions by a modifier of -1. The mana cost for sustaining the spell is listed with the spell's description. 
+
+## Spell List
+### Cantrips
+#### Frostburn
+Touch attack that causes 1d6-2 damage. Each level of mana burn raises the damage by +1.
+
+#### Healing Hand
+Heals 1d6 health. The caster has to touch the person he wants to heal. Each level of mana burn heals an additional health.
+
+#### Magic light
+Caster creates a magic light on the tip of his staff or other weapon, that illuminates a 10 yards radius much like a torch. Mana burn can be used to add one or more of the following effects:
+
+- Ball of light (the caster forms the light into a ball that he can control with his thoughts)
+- Colored light (the light shines in a color of the caster's choosing)
+- Light beam (the light shines in a tight beam which reaches 15 yards)
+- Flash (the effect lasts only one round but blinds everyone who looks unprotected into the flash for 1d6 rounds)
+
+The magic light shines for 1 hour or until dispelled by the caster. It can also be sustained for 1 additional mana per hour.
+
+#### Sense Magic
+Caster can sense magic in a 3 yards radius. Each level of mana burn adds another yard to the radius.
+
+#### Telekinesis
+Caster may remotely move one item up to 1kg. Each mana burn adds another kilogram of weight that can be moved. Telekinesis lasts for 1 min and can be sustained for 1 additional mana per minute.
+
 ## Rules Mechanics
 ### Basic Task Resolution
 Every time a character wants to perform an action which has a chance of failing, the GM may ask the player to roll the dice to determine the outcome of said action. The basic task resolution method is the attribute check. The GM picks the appropriate attribute and decides how difficult the task at hand is. Then the player rolls one six-sided die (also called d6) and adds the relevant attribute's level to the roll's result. If the character knows any skills that might help in that situation, he may add 2 to his result. The final result is then compared to the difficulty level set by the GM. If the result is equal or higher the task was successful. If not, the task failed.
