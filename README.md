@@ -2,7 +2,7 @@
 This work is based on Warrior, Rogue & Mage (found at http://www.stargazergames.eu/), created by Michael Wolf, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
 
 ## What is Commando, Hacker & Witch?
-CH&W is a simple, lightweight role playing game that allows a group of players and a game master (GM) to experience epic adventures in a retro-cyberpunk world of hackers, machine guns, and (inexplicably) magic.
+CH&W is a simple, lightweight role playing game that allows a group of players and a game master (GM) to experience epic adventures in a retro-cyberpunk world of hackers, ninjas, mercenaries, and (for some reason) magic.
 
 Although CH&W uses the three archetypal roles of classic role playing games in its title, it doesn’t make use of classes. Players can freely create characters as they see fit without having to press them into the tight corset of character classes. Commando, Hacker and Witch are actually the characters’ basic attributes, which measure their capabilities in combat, stealth and academics respectively.
 
@@ -47,7 +47,7 @@ Software | Hacker | Proficiency with software, coding, systems, networks, etc.
 Street Cred | Hacker | Knowledge of cool stuff, reputation.
 Awareness | Witch | A measure of a characters awareness of their surroundings.
 Charms | Witch | Proficiency with spells that manipulate reality in a positive way.
-Divination | Witch | Experience with foresight or ESP through tarot, palmistry, numerology, etc.
+Divination | Witch | Experience with foresight through tarot, palmistry, numerology, etc.
 Herbalism | Witch | Knowledge of plants, herbs and their medical uses.
 Hexes | Witch | Proficiency with spells that manipulate reality in a damaging way.
 Knowledge | Witch | General knowledge, to be specified on skill selection.
@@ -118,7 +118,7 @@ Walkie-talkie | $100
 Characters with a Witch attribute of 1 or higher have access to spells. Spells can be found or bought. These spells must first be transferred to a character's personal spell book before they can be used. To cast a spell from the book, the character has to make a roll versus the DL of the spell. If successful, their Mana pool is reduced by the amount listed for the spell.
 
 ### Mana regeneration
-A character gets back their full Mana pool for a good night's sleep and receives Mana equal to their Witch attribute for one hour of meditation.
+A character gets back their full Mana pool for a good night's sleep.
 
 ### Casting Spells
 In order to cast spells a character needs at least Witch level 1. The range of all spells is the line of sight if the spell description does not say otherwise.
@@ -144,7 +144,7 @@ Skill | Mana | DL
 Herbalism | 3 | 8
 The caster can alter their appearance in simple was such as changing skin tone, facial features, and hair color.
 
-### Frighten
+#### Frighten
 Skill | Mana | DL
 --- | --- | ---
 Hexes | 3 | 8
@@ -154,7 +154,7 @@ A target within line of sight must make a DL 8 Witch roll or lose their next act
 Skill | Mana | DL
 --- | --- | ---
 Charms | 2 | 7
-Caster creates a magic light on the tip of his staff or other weapon, that illuminates a 10 yards radius much like a torch. The magic light shines for 1 hour or until dispelled by the caster. It can also be sustained for 1 additional Mana per hour.
+Caster creates a magic light that floats a foot above their head, illuminating a 10 yards radius much like a torch. The magic light shines for 1 hour or until dispelled by the caster. It can also be sustained for 1 additional Mana per hour.
 
 #### Minor Curse
 Skill | Mana | DL
@@ -184,13 +184,13 @@ Caster may remotely move one item up to 5 lb. Telekinesis lasts for 1 min and ca
 #### Consume Life
 Skill | Mana | DL
 --- | --- | ---
-Hexes | 13 | 16
+Hexes | 11 | 14
 Touch attack that deals 3d6+4 damage and heals the caster by the same amount.
 
 #### Form of Shadow
 Skill | Mana | DL
 --- | --- | ---
-Charms | 11 | 14
+Charms | 13 | 16
 The touched target of this spell becomes almost completely intangible to solid matter. The spell lasts 30 minutes and may be sustained for 1 additional Mana per 5 minutes.
 
 #### Sense Fate
