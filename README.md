@@ -135,74 +135,74 @@ Usually all spells have a certain duration or cause an instant effect. But there
 #### Augury
 Skill | Mana | DL
 --- | --- | ---
-Divination | 2 | 6
+Divination | 3 | 8
 The caster may use this spell to answer a single question about the present or very recent past in relation to an object or place the caster touches.
 
 #### Salve of Deception
 Skill | Mana | DL
 --- | --- | ---
-Herbalism | 2 | 6
+Herbalism | 3 | 8
 The caster can alter their appearance in simple was such as changing skin tone, facial features, and hair color.
 
 ### Frighten
 Skill | Mana | DL
 --- | --- | ---
-Hexes | 2 | 6
+Hexes | 3 | 8
 A target within line of sight must make a DL 8 Witch roll or lose their next action.
 
 #### Magic Light
 Skill | Mana | DL
 --- | --- | ---
-Charms | 1 | 5
+Charms | 2 | 7
 Caster creates a magic light on the tip of his staff or other weapon, that illuminates a 10 yards radius much like a torch. The magic light shines for 1 hour or until dispelled by the caster. It can also be sustained for 1 additional Mana per hour.
 
 #### Minor Curse
 Skill | Mana | DL
 --- | --- | ---
-Hexes | 2 | 7
+Hexes | 3 | 9
 Deals 1d6 damage to a target within line of sight.
 
 #### Sense Magic
 Skill | Mana | DL
 --- | --- | ---
-Divination | 1 | 5
+Divination | 2 | 7
 Caster senses the presence of magic in a 3 yard radius. The spell can be sustained for 1 Mana per minute.
 
 #### Soothing Tincture
 Skill | Mana | DL
 --- | --- | ---
-Herbalism | 1 | 5
+Herbalism | 2 | 7
 Heals 1d6 Health. Caster must touch the target.
 
 #### Telekinesis
 Skill | Mana | DL
 --- | --- | ---
-Charms | 2 | 7
+Charms | 3 | 9
 Caster may remotely move one item up to 5 lb. Telekinesis lasts for 1 min and can be sustained for 1 additional Mana per minute.
 
 ### Sample Rituals
 #### Consume Life
 Skill | Mana | DL
 --- | --- | ---
-Hexes | 12 | 14
+Hexes | 13 | 16
 Touch attack that deals 3d6+4 damage and heals the caster by the same amount.
 
 #### Form of Shadow
 Skill | Mana | DL
 --- | --- | ---
-Charms | 10 | 12
+Charms | 11 | 14
 The touched target of this spell becomes almost completely intangible to solid matter. The spell lasts 30 minutes and may be sustained for 1 additional Mana per 5 minutes.
 
 #### Sense Fate
 Skill | Mana | DL
 --- | --- | ---
-Divination | 16 | 15
+Divination | 14 | 17
 The player describes a specific event that will happen at some future time and spends two of the character's Luck points. These Luck points cannot be restored until the foretold event has happened. The event is perceived by the character as a vision of the future. The circumstances determined by this spell provide a permanent +4 bonus to actions that will lead to the foreseen event or a -4 penalty to actions that would prevent the foreseen event.
 
 #### Resurrecting Tonic
 Skill | Mana | DL
 --- | --- | ---
-Herbalism | 8 | 13
+Herbalism | 12 | 15
 A character who died less than an hour before the casting of this spell can be restored to life with 1d6 Health.
 
 ## Rules Mechanics
